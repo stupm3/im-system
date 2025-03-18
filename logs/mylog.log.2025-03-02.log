@@ -1,0 +1,644 @@
+2025-03-02 19:30:26 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 24456 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 19:30:26 -The following profiles are active: dev
+2025-03-02 19:30:27 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 19:30:27 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 19:30:27 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-02 19:30:27 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 19:30:27 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:30:27 -Starting service [Tomcat]
+2025-03-02 19:30:27 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 19:30:27 -Initializing Spring embedded WebApplicationContext
+2025-03-02 19:30:27 -Root WebApplicationContext: initialization completed in 1405 ms
+2025-03-02 19:30:28 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:30:29 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:30:29 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 19:30:29 -Started ServiceApplication in 3.448 seconds (JVM running for 4.533)
+2025-03-02 19:33:10 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 19:33:10 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 19:33:10 -Completed initialization in 4 ms
+2025-03-02 19:33:10 -HikariPool-1 - Starting...
+2025-03-02 19:33:11 -HikariPool-1 - Start completed.
+2025-03-02 19:42:53 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:42:53 -HikariPool-1 - Shutdown initiated...
+2025-03-02 19:42:53 -HikariPool-1 - Shutdown completed.
+2025-03-02 19:43:11 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 28292 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 19:43:11 -The following profiles are active: dev
+2025-03-02 19:43:12 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 19:43:12 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 19:43:12 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2025-03-02 19:43:12 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 19:43:12 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:43:12 -Starting service [Tomcat]
+2025-03-02 19:43:12 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 19:43:12 -Initializing Spring embedded WebApplicationContext
+2025-03-02 19:43:12 -Root WebApplicationContext: initialization completed in 1161 ms
+2025-03-02 19:43:13 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:43:14 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:43:14 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 19:43:14 -Started ServiceApplication in 3.441 seconds (JVM running for 4.791)
+2025-03-02 19:43:16 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 19:43:16 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 19:43:16 -Completed initialization in 5 ms
+2025-03-02 19:43:17 -HikariPool-1 - Starting...
+2025-03-02 19:43:17 -HikariPool-1 - Start completed.
+2025-03-02 19:43:41 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53s753ms435µs).
+2025-03-02 19:43:47 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:43:47 -HikariPool-1 - Shutdown initiated...
+2025-03-02 19:43:47 -HikariPool-1 - Shutdown completed.
+2025-03-02 19:44:28 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 40312 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 19:44:28 -The following profiles are active: dev
+2025-03-02 19:44:28 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 19:44:28 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 19:44:28 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2025-03-02 19:44:29 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 19:44:29 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:44:29 -Starting service [Tomcat]
+2025-03-02 19:44:29 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 19:44:29 -Initializing Spring embedded WebApplicationContext
+2025-03-02 19:44:29 -Root WebApplicationContext: initialization completed in 812 ms
+2025-03-02 19:44:30 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:44:30 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:44:30 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 19:44:30 -Started ServiceApplication in 2.578 seconds (JVM running for 3.174)
+2025-03-02 19:44:33 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 19:44:33 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 19:44:33 -Completed initialization in 5 ms
+2025-03-02 19:44:33 -HikariPool-1 - Starting...
+2025-03-02 19:44:33 -HikariPool-1 - Start completed.
+2025-03-02 19:49:27 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:49:27 -HikariPool-1 - Shutdown initiated...
+2025-03-02 19:49:27 -HikariPool-1 - Shutdown completed.
+2025-03-02 19:49:29 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 24264 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 19:49:29 -The following profiles are active: dev
+2025-03-02 19:49:29 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 19:49:29 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 19:49:29 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2025-03-02 19:49:30 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 19:49:30 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:49:30 -Starting service [Tomcat]
+2025-03-02 19:49:30 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 19:49:30 -Initializing Spring embedded WebApplicationContext
+2025-03-02 19:49:30 -Root WebApplicationContext: initialization completed in 820 ms
+2025-03-02 19:49:31 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:49:31 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:49:31 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 19:49:31 -Started ServiceApplication in 2.638 seconds (JVM running for 3.231)
+2025-03-02 19:49:36 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 19:49:36 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 19:49:36 -Completed initialization in 4 ms
+2025-03-02 19:49:36 -HikariPool-1 - Starting...
+2025-03-02 19:49:36 -HikariPool-1 - Start completed.
+2025-03-02 19:52:03 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:52:03 -HikariPool-1 - Shutdown initiated...
+2025-03-02 19:52:03 -HikariPool-1 - Shutdown completed.
+2025-03-02 19:52:07 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 36384 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 19:52:07 -The following profiles are active: dev
+2025-03-02 19:52:08 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 19:52:08 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 19:52:08 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2025-03-02 19:52:08 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 19:52:08 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:52:08 -Starting service [Tomcat]
+2025-03-02 19:52:08 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 19:52:08 -Initializing Spring embedded WebApplicationContext
+2025-03-02 19:52:08 -Root WebApplicationContext: initialization completed in 893 ms
+2025-03-02 19:52:09 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:52:10 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:52:10 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 19:52:10 -Started ServiceApplication in 2.744 seconds (JVM running for 3.372)
+2025-03-02 19:52:25 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 19:52:25 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 19:52:25 -Completed initialization in 5 ms
+2025-03-02 19:52:25 -HikariPool-1 - Starting...
+2025-03-02 19:52:25 -HikariPool-1 - Start completed.
+2025-03-02 19:52:53 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:52:53 -HikariPool-1 - Shutdown initiated...
+2025-03-02 19:52:53 -HikariPool-1 - Shutdown completed.
+2025-03-02 19:52:56 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 22128 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 19:52:56 -The following profiles are active: dev
+2025-03-02 19:52:56 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 19:52:56 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 19:52:56 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2025-03-02 19:52:57 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 19:52:57 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:52:57 -Starting service [Tomcat]
+2025-03-02 19:52:57 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 19:52:57 -Initializing Spring embedded WebApplicationContext
+2025-03-02 19:52:57 -Root WebApplicationContext: initialization completed in 972 ms
+2025-03-02 19:52:58 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:52:58 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:52:59 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 19:52:59 -Started ServiceApplication in 2.902 seconds (JVM running for 3.603)
+2025-03-02 19:53:03 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 19:53:03 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 19:53:03 -Completed initialization in 4 ms
+2025-03-02 19:53:04 -HikariPool-1 - Starting...
+2025-03-02 19:53:04 -HikariPool-1 - Start completed.
+2025-03-02 19:54:02 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:54:02 -HikariPool-1 - Shutdown initiated...
+2025-03-02 19:54:02 -HikariPool-1 - Shutdown completed.
+2025-03-02 19:54:04 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 38144 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 19:54:04 -The following profiles are active: dev
+2025-03-02 19:54:05 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 19:54:05 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 19:54:05 -Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+2025-03-02 19:54:05 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 19:54:05 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:54:05 -Starting service [Tomcat]
+2025-03-02 19:54:05 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 19:54:05 -Initializing Spring embedded WebApplicationContext
+2025-03-02 19:54:05 -Root WebApplicationContext: initialization completed in 1003 ms
+2025-03-02 19:54:06 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:54:07 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:54:07 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 19:54:07 -Started ServiceApplication in 2.986 seconds (JVM running for 3.677)
+2025-03-02 19:54:10 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 19:54:10 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 19:54:10 -Completed initialization in 6 ms
+2025-03-02 19:54:10 -HikariPool-1 - Starting...
+2025-03-02 19:54:10 -HikariPool-1 - Start completed.
+2025-03-02 19:55:42 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:55:42 -HikariPool-1 - Shutdown initiated...
+2025-03-02 19:55:42 -HikariPool-1 - Shutdown completed.
+2025-03-02 19:56:07 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 14888 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 19:56:07 -The following profiles are active: dev
+2025-03-02 19:56:07 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 19:56:07 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 19:56:07 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2025-03-02 19:56:08 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 19:56:08 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:56:08 -Starting service [Tomcat]
+2025-03-02 19:56:08 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 19:56:08 -Initializing Spring embedded WebApplicationContext
+2025-03-02 19:56:08 -Root WebApplicationContext: initialization completed in 927 ms
+2025-03-02 19:56:09 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:56:09 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:56:09 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 19:56:09 -Started ServiceApplication in 3.029 seconds (JVM running for 3.745)
+2025-03-02 19:56:26 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 19:56:26 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 19:56:26 -Completed initialization in 6 ms
+2025-03-02 19:56:30 -HikariPool-1 - Starting...
+2025-03-02 19:56:31 -HikariPool-1 - Start completed.
+2025-03-02 19:56:46 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:56:46 -HikariPool-1 - Shutdown initiated...
+2025-03-02 19:56:46 -HikariPool-1 - Shutdown completed.
+2025-03-02 19:57:01 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 41648 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 19:57:01 -The following profiles are active: dev
+2025-03-02 19:57:01 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 19:57:01 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 19:57:01 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2025-03-02 19:57:02 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 19:57:02 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:57:02 -Starting service [Tomcat]
+2025-03-02 19:57:02 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 19:57:02 -Initializing Spring embedded WebApplicationContext
+2025-03-02 19:57:02 -Root WebApplicationContext: initialization completed in 873 ms
+2025-03-02 19:57:03 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 19:57:03 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 19:57:03 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 19:57:03 -Started ServiceApplication in 2.667 seconds (JVM running for 3.263)
+2025-03-02 19:57:05 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 19:57:05 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 19:57:05 -Completed initialization in 4 ms
+2025-03-02 19:57:05 -HikariPool-1 - Starting...
+2025-03-02 19:57:05 -HikariPool-1 - Start completed.
+2025-03-02 20:00:23 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:00:23 -HikariPool-1 - Shutdown initiated...
+2025-03-02 20:00:23 -HikariPool-1 - Shutdown completed.
+2025-03-02 20:00:27 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 36380 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:00:27 -The following profiles are active: dev
+2025-03-02 20:00:27 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:00:27 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:00:27 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2025-03-02 20:00:28 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:00:28 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:00:28 -Starting service [Tomcat]
+2025-03-02 20:00:28 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:00:28 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:00:28 -Root WebApplicationContext: initialization completed in 851 ms
+2025-03-02 20:00:29 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:00:29 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:00:29 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 20:00:29 -Started ServiceApplication in 2.63 seconds (JVM running for 3.212)
+2025-03-02 20:00:33 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 20:00:33 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 20:00:33 -Completed initialization in 7 ms
+2025-03-02 20:00:33 -HikariPool-1 - Starting...
+2025-03-02 20:00:34 -HikariPool-1 - Start completed.
+2025-03-02 20:01:55 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:01:55 -HikariPool-1 - Shutdown initiated...
+2025-03-02 20:01:55 -HikariPool-1 - Shutdown completed.
+2025-03-02 20:02:00 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 32436 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:02:00 -The following profiles are active: dev
+2025-03-02 20:02:00 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:02:00 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:02:00 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2025-03-02 20:02:01 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:02:01 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:02:01 -Starting service [Tomcat]
+2025-03-02 20:02:01 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:02:01 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:02:01 -Root WebApplicationContext: initialization completed in 907 ms
+2025-03-02 20:02:02 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:02:02 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:02:02 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 20:02:02 -Started ServiceApplication in 2.844 seconds (JVM running for 3.504)
+2025-03-02 20:02:15 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 20:02:15 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 20:02:15 -Completed initialization in 6 ms
+2025-03-02 20:02:21 -HikariPool-1 - Starting...
+2025-03-02 20:02:22 -HikariPool-1 - Start completed.
+2025-03-02 20:03:54 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 23280 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:03:54 -The following profiles are active: dev
+2025-03-02 20:03:54 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:03:54 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:03:54 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2025-03-02 20:03:55 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:03:55 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:03:55 -Starting service [Tomcat]
+2025-03-02 20:03:55 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:03:55 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:03:55 -Root WebApplicationContext: initialization completed in 972 ms
+2025-03-02 20:03:56 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:03:56 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:03:56 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 20:03:56 -Started ServiceApplication in 2.778 seconds (JVM running for 3.353)
+2025-03-02 20:03:59 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 20:03:59 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 20:03:59 -Completed initialization in 6 ms
+2025-03-02 20:03:59 -HikariPool-1 - Starting...
+2025-03-02 20:03:59 -HikariPool-1 - Start completed.
+2025-03-02 20:07:34 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:07:34 -HikariPool-1 - Shutdown initiated...
+2025-03-02 20:07:34 -HikariPool-1 - Shutdown completed.
+2025-03-02 20:07:40 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 41896 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:07:40 -The following profiles are active: dev
+2025-03-02 20:07:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:07:40 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:07:40 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2025-03-02 20:07:41 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:07:41 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:07:41 -Starting service [Tomcat]
+2025-03-02 20:07:41 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:07:41 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:07:41 -Root WebApplicationContext: initialization completed in 852 ms
+2025-03-02 20:07:42 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:07:42 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:07:42 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 20:07:42 -Started ServiceApplication in 2.661 seconds (JVM running for 3.266)
+2025-03-02 20:07:46 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 20:07:46 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 20:07:46 -Completed initialization in 7 ms
+2025-03-02 20:07:47 -HikariPool-1 - Starting...
+2025-03-02 20:07:47 -HikariPool-1 - Start completed.
+2025-03-02 20:16:21 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:16:21 -HikariPool-1 - Shutdown initiated...
+2025-03-02 20:16:21 -HikariPool-1 - Shutdown completed.
+2025-03-02 20:39:11 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 35512 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:39:11 -The following profiles are active: dev
+2025-03-02 20:39:11 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:39:11 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:39:11 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-02 20:39:12 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:39:12 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:39:12 -Starting service [Tomcat]
+2025-03-02 20:39:12 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:39:12 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:39:12 -Root WebApplicationContext: initialization completed in 1085 ms
+2025-03-02 20:39:13 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupController': Unsatisfied dependency expressed through field 'groupService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupServiceImpl': Unsatisfied dependency expressed through field 'groupMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.stupm.service.group.dao.mapper.GroupMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2025-03-02 20:39:13 -Stopping service [Tomcat]
+2025-03-02 20:39:13 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2025-03-02 20:39:13 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field groupMapper in com.stupm.service.group.service.impl.GroupServiceImpl required a bean of type 'com.stupm.service.group.dao.mapper.GroupMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.stupm.service.group.dao.mapper.GroupMapper' in your configuration.
+
+2025-03-02 20:40:01 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 34600 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:40:01 -The following profiles are active: dev
+2025-03-02 20:40:02 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:40:02 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:40:02 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2025-03-02 20:40:02 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:40:02 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:40:02 -Starting service [Tomcat]
+2025-03-02 20:40:02 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:40:02 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:40:02 -Root WebApplicationContext: initialization completed in 763 ms
+2025-03-02 20:40:03 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupController': Unsatisfied dependency expressed through field 'groupService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupServiceImpl': Unsatisfied dependency expressed through field 'groupMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.stupm.service.group.dao.mapper.GroupMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2025-03-02 20:40:03 -Stopping service [Tomcat]
+2025-03-02 20:40:03 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2025-03-02 20:40:03 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field groupMapper in com.stupm.service.group.service.impl.GroupServiceImpl required a bean of type 'com.stupm.service.group.dao.mapper.GroupMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.stupm.service.group.dao.mapper.GroupMapper' in your configuration.
+
+2025-03-02 20:40:23 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 37736 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:40:23 -The following profiles are active: dev
+2025-03-02 20:40:24 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:40:24 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:40:24 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2025-03-02 20:40:24 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:40:24 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:40:24 -Starting service [Tomcat]
+2025-03-02 20:40:24 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:40:24 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:40:24 -Root WebApplicationContext: initialization completed in 813 ms
+2025-03-02 20:40:25 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:40:25 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:40:25 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 20:40:25 -Started ServiceApplication in 2.66 seconds (JVM running for 3.224)
+2025-03-02 20:42:49 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 20:42:49 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 20:42:49 -Completed initialization in 6 ms
+2025-03-02 20:42:49 -HikariPool-1 - Starting...
+2025-03-02 20:42:50 -HikariPool-1 - Start completed.
+2025-03-02 20:46:13 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:46:13 -HikariPool-1 - Shutdown initiated...
+2025-03-02 20:46:13 -HikariPool-1 - Shutdown completed.
+2025-03-02 20:46:17 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 19368 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:46:17 -The following profiles are active: dev
+2025-03-02 20:46:18 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:46:18 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:46:18 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-02 20:46:18 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:46:18 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:46:18 -Starting service [Tomcat]
+2025-03-02 20:46:18 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:46:18 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:46:18 -Root WebApplicationContext: initialization completed in 892 ms
+2025-03-02 20:46:19 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:46:20 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:46:20 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 20:46:20 -Started ServiceApplication in 2.793 seconds (JVM running for 3.384)
+2025-03-02 20:46:22 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 20:46:22 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 20:46:23 -Completed initialization in 5 ms
+2025-03-02 20:46:23 -HikariPool-1 - Starting...
+2025-03-02 20:46:23 -HikariPool-1 - Start completed.
+2025-03-02 20:48:25 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:48:25 -HikariPool-1 - Shutdown initiated...
+2025-03-02 20:48:25 -HikariPool-1 - Shutdown completed.
+2025-03-02 20:48:28 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 12772 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:48:28 -The following profiles are active: dev
+2025-03-02 20:48:28 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:48:28 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:48:28 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-02 20:48:29 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:48:29 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:48:29 -Starting service [Tomcat]
+2025-03-02 20:48:29 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:48:29 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:48:29 -Root WebApplicationContext: initialization completed in 903 ms
+2025-03-02 20:48:30 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:48:30 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:48:30 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 20:48:30 -Started ServiceApplication in 2.812 seconds (JVM running for 3.555)
+2025-03-02 20:48:33 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 20:48:33 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 20:48:33 -Completed initialization in 5 ms
+2025-03-02 20:48:42 -HikariPool-1 - Starting...
+2025-03-02 20:48:42 -HikariPool-1 - Start completed.
+2025-03-02 20:48:43 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:48:43 -HikariPool-1 - Shutdown initiated...
+2025-03-02 20:48:43 -HikariPool-1 - Shutdown completed.
+2025-03-02 20:49:36 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 10140 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:49:36 -The following profiles are active: dev
+2025-03-02 20:49:36 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:49:36 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:49:36 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-02 20:49:37 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:49:37 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:49:37 -Starting service [Tomcat]
+2025-03-02 20:49:37 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:49:37 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:49:37 -Root WebApplicationContext: initialization completed in 1065 ms
+2025-03-02 20:49:38 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:49:38 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:49:38 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 20:49:39 -Started ServiceApplication in 3.171 seconds (JVM running for 3.921)
+2025-03-02 20:50:12 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 20:50:12 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 20:50:12 -Completed initialization in 6 ms
+2025-03-02 20:50:12 -HikariPool-1 - Starting...
+2025-03-02 20:50:12 -HikariPool-1 - Start completed.
+2025-03-02 20:51:50 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:51:50 -HikariPool-1 - Shutdown initiated...
+2025-03-02 20:51:51 -HikariPool-1 - Shutdown completed.
+2025-03-02 20:51:55 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 34384 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:51:55 -The following profiles are active: dev
+2025-03-02 20:51:56 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:51:56 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:51:56 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-02 20:51:56 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:51:56 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:51:56 -Starting service [Tomcat]
+2025-03-02 20:51:56 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:51:56 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:51:56 -Root WebApplicationContext: initialization completed in 972 ms
+2025-03-02 20:51:57 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:51:58 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:51:58 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 20:51:58 -Started ServiceApplication in 3.081 seconds (JVM running for 3.782)
+2025-03-02 20:52:00 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 20:52:00 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 20:52:00 -Completed initialization in 5 ms
+2025-03-02 20:52:00 -HikariPool-1 - Starting...
+2025-03-02 20:52:00 -HikariPool-1 - Start completed.
+2025-03-02 20:52:28 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:52:28 -HikariPool-1 - Shutdown initiated...
+2025-03-02 20:52:28 -HikariPool-1 - Shutdown completed.
+2025-03-02 20:52:32 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 41316 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 20:52:32 -The following profiles are active: dev
+2025-03-02 20:52:33 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 20:52:33 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 20:52:33 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-02 20:52:33 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 20:52:33 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:52:33 -Starting service [Tomcat]
+2025-03-02 20:52:33 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 20:52:33 -Initializing Spring embedded WebApplicationContext
+2025-03-02 20:52:33 -Root WebApplicationContext: initialization completed in 981 ms
+2025-03-02 20:52:34 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 20:52:35 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 20:52:35 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 20:52:35 -Started ServiceApplication in 2.996 seconds (JVM running for 3.708)
+2025-03-02 20:53:24 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 22:16:29 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 7528 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 22:16:29 -The following profiles are active: dev
+2025-03-02 22:16:30 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 22:16:30 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 22:16:30 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-02 22:16:31 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 22:16:31 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 22:16:31 -Starting service [Tomcat]
+2025-03-02 22:16:31 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 22:16:31 -Initializing Spring embedded WebApplicationContext
+2025-03-02 22:16:31 -Root WebApplicationContext: initialization completed in 1408 ms
+2025-03-02 22:16:32 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupController': Unsatisfied dependency expressed through field 'groupService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupServiceImpl': Unsatisfied dependency expressed through field 'groupMemberService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupMemberServiceImpl': Unsatisfied dependency expressed through field 'groupMemberMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.stupm.service.group.dao.mapper.GroupMemberMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2025-03-02 22:16:32 -Stopping service [Tomcat]
+2025-03-02 22:16:32 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2025-03-02 22:16:32 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field groupMemberMapper in com.stupm.service.group.service.impl.GroupMemberServiceImpl required a bean of type 'com.stupm.service.group.dao.mapper.GroupMemberMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.stupm.service.group.dao.mapper.GroupMemberMapper' in your configuration.
+
+2025-03-02 22:17:40 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 43680 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 22:17:40 -The following profiles are active: dev
+2025-03-02 22:17:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 22:17:40 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 22:17:40 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2025-03-02 22:17:41 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 22:17:41 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 22:17:41 -Starting service [Tomcat]
+2025-03-02 22:17:41 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 22:17:41 -Initializing Spring embedded WebApplicationContext
+2025-03-02 22:17:41 -Root WebApplicationContext: initialization completed in 857 ms
+2025-03-02 22:17:42 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupController': Unsatisfied dependency expressed through field 'groupService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupServiceImpl': Unsatisfied dependency expressed through field 'groupMemberService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupMemberServiceImpl': Unsatisfied dependency expressed through field 'groupMemberMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.stupm.service.group.dao.mapper.GroupMemberMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2025-03-02 22:17:42 -Stopping service [Tomcat]
+2025-03-02 22:17:42 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2025-03-02 22:17:42 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field groupMemberMapper in com.stupm.service.group.service.impl.GroupMemberServiceImpl required a bean of type 'com.stupm.service.group.dao.mapper.GroupMemberMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.stupm.service.group.dao.mapper.GroupMemberMapper' in your configuration.
+
+2025-03-02 22:17:51 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 37560 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 22:17:51 -The following profiles are active: dev
+2025-03-02 22:17:51 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 22:17:51 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 22:17:51 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-02 22:17:52 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 22:17:52 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 22:17:52 -Starting service [Tomcat]
+2025-03-02 22:17:52 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 22:17:52 -Initializing Spring embedded WebApplicationContext
+2025-03-02 22:17:52 -Root WebApplicationContext: initialization completed in 798 ms
+2025-03-02 22:17:53 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupController': Unsatisfied dependency expressed through field 'groupService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupServiceImpl': Unsatisfied dependency expressed through field 'groupMemberService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupMemberServiceImpl': Unsatisfied dependency expressed through field 'groupMemberMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.stupm.service.group.dao.mapper.GroupMemberMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2025-03-02 22:17:53 -Stopping service [Tomcat]
+2025-03-02 22:17:53 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2025-03-02 22:17:53 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field groupMemberMapper in com.stupm.service.group.service.impl.GroupMemberServiceImpl required a bean of type 'com.stupm.service.group.dao.mapper.GroupMemberMapper' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.stupm.service.group.dao.mapper.GroupMemberMapper' in your configuration.
+
+2025-03-02 22:18:04 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 13804 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 22:18:04 -The following profiles are active: dev
+2025-03-02 22:18:05 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 22:18:05 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 22:18:05 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2025-03-02 22:18:05 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 22:18:05 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 22:18:05 -Starting service [Tomcat]
+2025-03-02 22:18:05 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 22:18:05 -Initializing Spring embedded WebApplicationContext
+2025-03-02 22:18:05 -Root WebApplicationContext: initialization completed in 888 ms
+2025-03-02 22:18:06 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 22:18:07 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 22:18:07 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 22:18:07 -Started ServiceApplication in 2.874 seconds (JVM running for 3.454)
+2025-03-02 22:18:09 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 22:18:09 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 22:18:09 -Completed initialization in 5 ms
+2025-03-02 22:18:09 -HikariPool-1 - Starting...
+2025-03-02 22:18:09 -HikariPool-1 - Start completed.
+2025-03-02 22:22:25 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 22:22:25 -HikariPool-1 - Shutdown initiated...
+2025-03-02 22:22:25 -HikariPool-1 - Shutdown completed.
+2025-03-02 22:22:30 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 13224 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-02 22:22:30 -The following profiles are active: dev
+2025-03-02 22:22:31 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-02 22:22:31 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-02 22:22:31 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-02 22:22:31 -Tomcat initialized with port(s): 8000 (http)
+2025-03-02 22:22:31 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-02 22:22:31 -Starting service [Tomcat]
+2025-03-02 22:22:31 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-02 22:22:31 -Initializing Spring embedded WebApplicationContext
+2025-03-02 22:22:31 -Root WebApplicationContext: initialization completed in 934 ms
+2025-03-02 22:22:32 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-02 22:22:33 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-02 22:22:33 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-02 22:22:33 -Started ServiceApplication in 2.932 seconds (JVM running for 3.588)
+2025-03-02 22:23:53 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-02 22:23:53 -Initializing Servlet 'dispatcherServlet'
+2025-03-02 22:23:53 -Completed initialization in 9 ms
+2025-03-02 22:23:53 -HikariPool-1 - Starting...
+2025-03-02 22:23:53 -HikariPool-1 - Start completed.
+2025-03-02 22:25:26 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-02 22:25:26 -HikariPool-1 - Shutdown initiated...
+2025-03-02 22:25:26 -HikariPool-1 - Shutdown completed.

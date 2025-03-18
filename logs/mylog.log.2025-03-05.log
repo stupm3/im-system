@@ -1,0 +1,782 @@
+2025-03-05 12:26:55 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 416 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 12:26:55 -The following profiles are active: dev
+2025-03-05 12:26:57 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 12:26:57 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 12:26:57 -Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2025-03-05 12:26:57 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 12:26:57 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 12:26:57 -Starting service [Tomcat]
+2025-03-05 12:26:57 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 12:26:58 -Initializing Spring embedded WebApplicationContext
+2025-03-05 12:26:58 -Root WebApplicationContext: initialization completed in 2631 ms
+2025-03-05 12:26:59 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 12:26:59 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 12:26:59 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 12:26:59 -Started ServiceApplication in 4.885 seconds (JVM running for 5.518)
+2025-03-05 12:28:34 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 12:28:34 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 12:28:34 -Completed initialization in 6 ms
+2025-03-05 12:29:17 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 12:33:16 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 12836 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 12:33:16 -The following profiles are active: dev
+2025-03-05 12:33:16 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 12:33:16 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 12:33:16 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2025-03-05 12:33:17 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 12:33:17 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 12:33:17 -Starting service [Tomcat]
+2025-03-05 12:33:17 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 12:33:17 -Initializing Spring embedded WebApplicationContext
+2025-03-05 12:33:17 -Root WebApplicationContext: initialization completed in 930 ms
+2025-03-05 12:33:18 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 12:33:18 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 12:33:18 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 12:33:18 -Started ServiceApplication in 2.875 seconds (JVM running for 3.537)
+2025-03-05 12:33:25 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 12:33:25 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 12:33:25 -Completed initialization in 5 ms
+2025-03-05 12:34:04 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 13:03:11 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 28832 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 13:03:11 -The following profiles are active: dev
+2025-03-05 13:03:11 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 13:03:11 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 13:03:11 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-05 13:03:12 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 13:03:12 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 13:03:12 -Starting service [Tomcat]
+2025-03-05 13:03:12 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 13:03:12 -Initializing Spring embedded WebApplicationContext
+2025-03-05 13:03:12 -Root WebApplicationContext: initialization completed in 838 ms
+2025-03-05 13:03:13 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 13:03:13 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 13:03:13 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 13:03:13 -Started ServiceApplication in 2.768 seconds (JVM running for 3.383)
+2025-03-05 13:03:17 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 13:03:17 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 13:03:17 -Completed initialization in 5 ms
+2025-03-05 13:04:00 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 13:24:43 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 27736 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 13:24:43 -The following profiles are active: dev
+2025-03-05 13:24:44 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 13:24:44 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 13:24:44 -Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+2025-03-05 13:24:44 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 13:24:44 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 13:24:44 -Starting service [Tomcat]
+2025-03-05 13:24:44 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 13:24:44 -Initializing Spring embedded WebApplicationContext
+2025-03-05 13:24:44 -Root WebApplicationContext: initialization completed in 1035 ms
+2025-03-05 13:24:45 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'routeHandle'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/stupm/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.stupm.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.ClassCastException: com.stupm.common.route.algorithm.consistenthash.ConsistentHashHandle cannot be cast to com.stupm.common.route.algorithm.consistenthash.AbstractConsistentHash
+2025-03-05 13:24:45 -Stopping service [Tomcat]
+2025-03-05 13:24:45 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2025-03-05 13:24:45 -Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'routeHandle'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/stupm/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.stupm.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.ClassCastException: com.stupm.common.route.algorithm.consistenthash.ConsistentHashHandle cannot be cast to com.stupm.common.route.algorithm.consistenthash.AbstractConsistentHash
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.stupm.service.ServiceApplication.main(ServiceApplication.java:9)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/stupm/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.stupm.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.ClassCastException: com.stupm.common.route.algorithm.consistenthash.ConsistentHashHandle cannot be cast to com.stupm.common.route.algorithm.consistenthash.AbstractConsistentHash
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:655)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:483)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1176)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1307)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 20 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.stupm.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.ClassCastException: com.stupm.common.route.algorithm.consistenthash.ConsistentHashHandle cannot be cast to com.stupm.common.route.algorithm.consistenthash.AbstractConsistentHash
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:650)
+	... 33 common frames omitted
+Caused by: java.lang.ClassCastException: com.stupm.common.route.algorithm.consistenthash.ConsistentHashHandle cannot be cast to com.stupm.common.route.algorithm.consistenthash.AbstractConsistentHash
+	at com.stupm.service.config.BeanConfig.routeHandle(BeanConfig.java:45)
+	at com.stupm.service.config.BeanConfig$$EnhancerBySpringCGLIB$$2d8cf7ba.CGLIB$routeHandle$1(<generated>)
+	at com.stupm.service.config.BeanConfig$$EnhancerBySpringCGLIB$$2d8cf7ba$$FastClassBySpringCGLIB$$ed9c1d4b.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.stupm.service.config.BeanConfig$$EnhancerBySpringCGLIB$$2d8cf7ba.routeHandle(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 34 common frames omitted
+2025-03-05 13:30:02 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 4720 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 13:30:02 -The following profiles are active: dev
+2025-03-05 13:30:03 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 13:30:03 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 13:30:03 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-05 13:30:03 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 13:30:03 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 13:30:03 -Starting service [Tomcat]
+2025-03-05 13:30:03 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 13:30:03 -Initializing Spring embedded WebApplicationContext
+2025-03-05 13:30:03 -Root WebApplicationContext: initialization completed in 905 ms
+2025-03-05 13:30:04 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'routeHandle'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/stupm/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.stupm.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.ClassCastException: com.stupm.common.route.algorithm.consistenthash.ConsistentHashHandle cannot be cast to com.stupm.common.route.algorithm.consistenthash.AbstractConsistentHash
+2025-03-05 13:30:04 -Stopping service [Tomcat]
+2025-03-05 13:30:04 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2025-03-05 13:30:04 -Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'routeHandle'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/stupm/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.stupm.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.ClassCastException: com.stupm.common.route.algorithm.consistenthash.ConsistentHashHandle cannot be cast to com.stupm.common.route.algorithm.consistenthash.AbstractConsistentHash
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.stupm.service.ServiceApplication.main(ServiceApplication.java:9)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'routeHandle' defined in class path resource [com/stupm/service/config/BeanConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.stupm.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.ClassCastException: com.stupm.common.route.algorithm.consistenthash.ConsistentHashHandle cannot be cast to com.stupm.common.route.algorithm.consistenthash.AbstractConsistentHash
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:655)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:483)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1176)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1307)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 20 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.stupm.common.route.RouteHandle]: Factory method 'routeHandle' threw exception; nested exception is java.lang.ClassCastException: com.stupm.common.route.algorithm.consistenthash.ConsistentHashHandle cannot be cast to com.stupm.common.route.algorithm.consistenthash.AbstractConsistentHash
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:650)
+	... 33 common frames omitted
+Caused by: java.lang.ClassCastException: com.stupm.common.route.algorithm.consistenthash.ConsistentHashHandle cannot be cast to com.stupm.common.route.algorithm.consistenthash.AbstractConsistentHash
+	at com.stupm.service.config.BeanConfig.routeHandle(BeanConfig.java:45)
+	at com.stupm.service.config.BeanConfig$$EnhancerBySpringCGLIB$$5c09541a.CGLIB$routeHandle$1(<generated>)
+	at com.stupm.service.config.BeanConfig$$EnhancerBySpringCGLIB$$5c09541a$$FastClassBySpringCGLIB$$e04c7124.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.stupm.service.config.BeanConfig$$EnhancerBySpringCGLIB$$5c09541a.routeHandle(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 34 common frames omitted
+2025-03-05 13:30:43 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 8804 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 13:30:43 -The following profiles are active: dev
+2025-03-05 13:30:43 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 13:30:43 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 13:30:43 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-05 13:30:44 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 13:30:44 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 13:30:44 -Starting service [Tomcat]
+2025-03-05 13:30:44 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 13:30:44 -Initializing Spring embedded WebApplicationContext
+2025-03-05 13:30:44 -Root WebApplicationContext: initialization completed in 865 ms
+2025-03-05 13:30:45 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 13:30:45 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 13:30:45 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 13:30:45 -Started ServiceApplication in 2.864 seconds (JVM running for 3.446)
+2025-03-05 13:30:48 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 15:06:14 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 20996 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 15:06:14 -The following profiles are active: dev
+2025-03-05 15:06:16 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 15:06:16 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 15:06:16 -Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2025-03-05 15:06:16 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 15:06:16 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 15:06:16 -Starting service [Tomcat]
+2025-03-05 15:06:16 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 15:06:16 -Initializing Spring embedded WebApplicationContext
+2025-03-05 15:06:16 -Root WebApplicationContext: initialization completed in 1754 ms
+2025-03-05 15:06:17 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 15:06:18 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 15:06:18 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 15:06:18 -Started ServiceApplication in 4.026 seconds (JVM running for 5.316)
+2025-03-05 15:16:19 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:23:54 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 25664 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:23:54 -The following profiles are active: dev
+2025-03-05 19:23:56 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:23:56 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:23:56 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-05 19:23:56 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:23:56 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:23:56 -Starting service [Tomcat]
+2025-03-05 19:23:56 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:23:56 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:23:56 -Root WebApplicationContext: initialization completed in 2610 ms
+2025-03-05 19:23:58 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:23:58 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:23:58 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:23:58 -Started ServiceApplication in 4.803 seconds (JVM running for 5.459)
+2025-03-05 19:24:57 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:25:02 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 24272 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:25:02 -The following profiles are active: dev
+2025-03-05 19:25:02 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:25:02 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:25:02 -Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2025-03-05 19:25:02 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:25:02 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:25:02 -Starting service [Tomcat]
+2025-03-05 19:25:02 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:25:03 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:25:03 -Root WebApplicationContext: initialization completed in 981 ms
+2025-03-05 19:25:04 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:25:04 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:25:04 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:25:04 -Started ServiceApplication in 3.064 seconds (JVM running for 3.745)
+2025-03-05 19:31:04 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:31:04 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:31:04 -Completed initialization in 6 ms
+2025-03-05 19:32:14 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:32:20 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 4276 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:32:20 -The following profiles are active: dev
+2025-03-05 19:32:20 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:32:20 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:32:20 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-05 19:32:21 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:32:21 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:32:21 -Starting service [Tomcat]
+2025-03-05 19:32:21 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:32:21 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:32:21 -Root WebApplicationContext: initialization completed in 908 ms
+2025-03-05 19:32:22 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:32:22 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:32:22 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:32:22 -Started ServiceApplication in 2.996 seconds (JVM running for 3.606)
+2025-03-05 19:32:31 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:32:31 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:32:31 -Completed initialization in 5 ms
+2025-03-05 19:37:48 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:37:55 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 4424 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:37:55 -The following profiles are active: dev
+2025-03-05 19:37:55 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:37:55 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:37:55 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-05 19:37:56 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:37:56 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:37:56 -Starting service [Tomcat]
+2025-03-05 19:37:56 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:37:56 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:37:56 -Root WebApplicationContext: initialization completed in 1005 ms
+2025-03-05 19:37:57 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:37:58 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:37:58 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:37:58 -Started ServiceApplication in 3.108 seconds (JVM running for 3.77)
+2025-03-05 19:38:00 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:38:00 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:38:00 -Completed initialization in 6 ms
+2025-03-05 19:38:01 -null
+2025-03-05 19:38:08 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:38:11 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 984 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:38:11 -The following profiles are active: dev
+2025-03-05 19:38:15 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 15056 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:38:15 -The following profiles are active: dev
+2025-03-05 19:38:15 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:38:15 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:38:15 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2025-03-05 19:38:16 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:38:16 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:38:16 -Starting service [Tomcat]
+2025-03-05 19:38:16 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:38:16 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:38:16 -Root WebApplicationContext: initialization completed in 957 ms
+2025-03-05 19:38:18 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:38:19 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:38:19 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:38:19 -Started ServiceApplication in 4.339 seconds (JVM running for 5.624)
+2025-03-05 19:38:31 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:38:31 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:38:31 -Completed initialization in 8 ms
+2025-03-05 19:40:21 -null
+2025-03-05 19:40:21 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:40:30 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 29428 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:40:30 -The following profiles are active: dev
+2025-03-05 19:40:31 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:40:31 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:40:31 -Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+2025-03-05 19:40:31 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:40:31 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:40:31 -Starting service [Tomcat]
+2025-03-05 19:40:31 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:40:31 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:40:31 -Root WebApplicationContext: initialization completed in 983 ms
+2025-03-05 19:40:33 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:40:33 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:40:33 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:40:33 -Started ServiceApplication in 3.035 seconds (JVM running for 3.716)
+2025-03-05 19:40:55 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:40:55 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:40:55 -Completed initialization in 5 ms
+2025-03-05 19:41:07 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:41:13 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 30060 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:41:13 -The following profiles are active: dev
+2025-03-05 19:41:14 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:41:14 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:41:14 -Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2025-03-05 19:41:14 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:41:14 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:41:14 -Starting service [Tomcat]
+2025-03-05 19:41:14 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:41:14 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:41:14 -Root WebApplicationContext: initialization completed in 963 ms
+2025-03-05 19:41:17 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:41:17 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:41:17 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:41:17 -Started ServiceApplication in 4.122 seconds (JVM running for 4.904)
+2025-03-05 19:41:20 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:41:20 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:41:20 -Completed initialization in 9 ms
+2025-03-05 19:42:25 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:43:12 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 20452 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:43:12 -The following profiles are active: dev
+2025-03-05 19:43:12 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:43:12 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:43:12 -Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+2025-03-05 19:43:13 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:43:13 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:43:13 -Starting service [Tomcat]
+2025-03-05 19:43:13 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:43:13 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:43:13 -Root WebApplicationContext: initialization completed in 972 ms
+2025-03-05 19:43:15 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:43:16 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:43:16 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:43:16 -Started ServiceApplication in 4.344 seconds (JVM running for 5.118)
+2025-03-05 19:43:17 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:43:17 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:43:17 -Completed initialization in 8 ms
+2025-03-05 19:44:19 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:45:27 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 16512 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:45:27 -The following profiles are active: dev
+2025-03-05 19:45:27 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:45:27 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:45:27 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-05 19:45:28 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:45:28 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:45:28 -Starting service [Tomcat]
+2025-03-05 19:45:28 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:45:28 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:45:28 -Root WebApplicationContext: initialization completed in 904 ms
+2025-03-05 19:45:29 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:45:29 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:45:29 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:45:29 -Started ServiceApplication in 2.937 seconds (JVM running for 3.533)
+2025-03-05 19:45:32 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:45:32 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:45:32 -Completed initialization in 5 ms
+2025-03-05 19:45:43 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:45:46 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 8900 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:45:46 -The following profiles are active: dev
+2025-03-05 19:45:47 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:45:47 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:45:47 -Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+2025-03-05 19:45:47 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:45:47 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:45:47 -Starting service [Tomcat]
+2025-03-05 19:45:47 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:45:47 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:45:47 -Root WebApplicationContext: initialization completed in 998 ms
+2025-03-05 19:45:50 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:45:50 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:45:50 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:45:50 -Started ServiceApplication in 4.283 seconds (JVM running for 5.015)
+2025-03-05 19:45:52 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:45:52 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:45:52 -Completed initialization in 11 ms
+2025-03-05 19:46:36 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:46:56 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 31232 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:46:56 -The following profiles are active: dev
+2025-03-05 19:46:57 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:46:57 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:46:57 -Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+2025-03-05 19:46:57 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:46:57 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:46:57 -Starting service [Tomcat]
+2025-03-05 19:46:57 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:46:57 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:46:57 -Root WebApplicationContext: initialization completed in 922 ms
+2025-03-05 19:46:59 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:46:59 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:46:59 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:46:59 -Started ServiceApplication in 2.957 seconds (JVM running for 3.577)
+2025-03-05 19:47:01 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:47:01 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:47:01 -Completed initialization in 4 ms
+2025-03-05 19:50:14 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:50:19 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 21160 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:50:19 -The following profiles are active: dev
+2025-03-05 19:50:19 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:50:19 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:50:19 -Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2025-03-05 19:50:20 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:50:20 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:50:20 -Starting service [Tomcat]
+2025-03-05 19:50:20 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:50:20 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:50:20 -Root WebApplicationContext: initialization completed in 1117 ms
+2025-03-05 19:50:22 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:50:23 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:50:23 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:50:23 -Started ServiceApplication in 4.562 seconds (JVM running for 5.304)
+2025-03-05 19:50:24 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:50:24 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:50:24 -Completed initialization in 10 ms
+2025-03-05 19:51:34 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:51:42 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 16412 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:51:42 -The following profiles are active: dev
+2025-03-05 19:51:43 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:51:43 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:51:43 -Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2025-03-05 19:51:43 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:51:43 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:51:43 -Starting service [Tomcat]
+2025-03-05 19:51:43 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:51:44 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:51:44 -Root WebApplicationContext: initialization completed in 1097 ms
+2025-03-05 19:51:46 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:51:46 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:51:46 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:51:46 -Started ServiceApplication in 4.34 seconds (JVM running for 5.116)
+2025-03-05 19:51:49 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:51:49 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:51:49 -Completed initialization in 9 ms
+2025-03-05 19:52:15 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:53:09 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 17908 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:53:09 -The following profiles are active: dev
+2025-03-05 19:53:10 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:53:10 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:53:10 -Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2025-03-05 19:53:10 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:53:10 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:53:10 -Starting service [Tomcat]
+2025-03-05 19:53:10 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:53:10 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:53:10 -Root WebApplicationContext: initialization completed in 994 ms
+2025-03-05 19:53:12 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:53:12 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:53:12 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:53:12 -Started ServiceApplication in 3.177 seconds (JVM running for 3.792)
+2025-03-05 19:53:16 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:53:16 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:53:16 -Completed initialization in 5 ms
+2025-03-05 19:53:21 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:53:25 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 1036 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:53:25 -The following profiles are active: dev
+2025-03-05 19:53:26 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:53:26 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:53:26 -Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2025-03-05 19:53:26 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:53:26 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:53:26 -Starting service [Tomcat]
+2025-03-05 19:53:26 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:53:27 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:53:27 -Root WebApplicationContext: initialization completed in 1085 ms
+2025-03-05 19:53:29 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:53:29 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:53:29 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:53:29 -Started ServiceApplication in 4.134 seconds (JVM running for 4.908)
+2025-03-05 19:53:30 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:53:30 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:53:30 -Completed initialization in 10 ms
+2025-03-05 19:54:30 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:56:54 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 3400 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:56:54 -The following profiles are active: dev
+2025-03-05 19:56:54 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:56:54 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:56:54 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2025-03-05 19:56:55 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:56:55 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:56:55 -Starting service [Tomcat]
+2025-03-05 19:56:55 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:56:55 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:56:55 -Root WebApplicationContext: initialization completed in 910 ms
+2025-03-05 19:56:56 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:56:56 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:56:56 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:56:56 -Started ServiceApplication in 2.947 seconds (JVM running for 3.537)
+2025-03-05 19:56:58 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:57:01 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 10148 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:57:01 -The following profiles are active: dev
+2025-03-05 19:57:01 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:57:01 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:57:01 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2025-03-05 19:57:02 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:57:02 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:57:02 -Starting service [Tomcat]
+2025-03-05 19:57:02 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:57:02 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:57:02 -Root WebApplicationContext: initialization completed in 997 ms
+2025-03-05 19:57:04 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:57:05 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:57:05 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:57:05 -Started ServiceApplication in 4.14 seconds (JVM running for 4.897)
+2025-03-05 19:57:10 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:57:10 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:57:10 -Completed initialization in 9 ms
+2025-03-05 19:58:33 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:58:46 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 30732 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:58:46 -The following profiles are active: dev
+2025-03-05 19:58:46 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:58:46 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:58:46 -Finished Spring Data repository scanning in 16ms. Found 0 Redis repository interfaces.
+2025-03-05 19:58:46 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:58:46 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:58:46 -Starting service [Tomcat]
+2025-03-05 19:58:46 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:58:47 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:58:47 -Root WebApplicationContext: initialization completed in 999 ms
+2025-03-05 19:58:48 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:58:48 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:58:48 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:58:48 -Started ServiceApplication in 3.104 seconds (JVM running for 3.71)
+2025-03-05 19:58:50 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:58:50 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:58:50 -Completed initialization in 5 ms
+2025-03-05 19:59:17 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:59:21 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 23528 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 19:59:21 -The following profiles are active: dev
+2025-03-05 19:59:21 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 19:59:21 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 19:59:21 -Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+2025-03-05 19:59:22 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 19:59:22 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:59:22 -Starting service [Tomcat]
+2025-03-05 19:59:22 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 19:59:22 -Initializing Spring embedded WebApplicationContext
+2025-03-05 19:59:22 -Root WebApplicationContext: initialization completed in 1090 ms
+2025-03-05 19:59:24 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 19:59:25 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 19:59:25 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 19:59:25 -Started ServiceApplication in 4.411 seconds (JVM running for 5.213)
+2025-03-05 19:59:30 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 19:59:30 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 19:59:30 -Completed initialization in 9 ms
+2025-03-05 20:26:57 -Failure in @ExceptionHandler com.stupm.service.user.exception.GlobalExceptionHandler#unknowException(Exception)
+org.apache.catalina.connector.ClientAbortException: java.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:309)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:272)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118)
+	at com.fasterxml.jackson.core.json.UTF8JsonGenerator.flush(UTF8JsonGenerator.java:1176)
+	at com.fasterxml.jackson.databind.ObjectWriter.writeValue(ObjectWriter.java:1007)
+	at org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter.writeInternal(AbstractJackson2HttpMessageConverter.java:335)
+	at org.springframework.http.converter.AbstractGenericHttpMessageConverter.write(AbstractGenericHttpMessageConverter.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:287)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:181)
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:82)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:123)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:403)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:61)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:141)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1300)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1111)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1589)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+	at sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:470)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:138)
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:152)
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1252)
+	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:764)
+	at org.apache.tomcat.util.net.SocketWrapperBase.flushBlocking(SocketWrapperBase.java:717)
+	at org.apache.tomcat.util.net.SocketWrapperBase.flush(SocketWrapperBase.java:707)
+	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.flush(Http11OutputBuffer.java:564)
+	at org.apache.coyote.http11.filters.ChunkedOutputFilter.flush(ChunkedOutputFilter.java:157)
+	at org.apache.coyote.http11.Http11OutputBuffer.flush(Http11OutputBuffer.java:217)
+	at org.apache.coyote.http11.Http11Processor.flush(Http11Processor.java:1179)
+	at org.apache.coyote.AbstractProcessor.action(AbstractProcessor.java:399)
+	at org.apache.coyote.Response.action(Response.java:209)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:305)
+	... 56 common frames omitted
+2025-03-05 20:26:57 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 20:27:05 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 19980 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 20:27:05 -The following profiles are active: dev
+2025-03-05 20:27:05 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 20:27:05 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 20:27:05 -Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+2025-03-05 20:27:06 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 20:27:06 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:27:06 -Starting service [Tomcat]
+2025-03-05 20:27:06 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 20:27:06 -Initializing Spring embedded WebApplicationContext
+2025-03-05 20:27:06 -Root WebApplicationContext: initialization completed in 1314 ms
+2025-03-05 20:27:06 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 19384 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 20:27:06 -The following profiles are active: dev
+2025-03-05 20:27:07 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 20:27:07 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 20:27:07 -Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2025-03-05 20:27:07 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 20:27:07 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:27:07 -Starting service [Tomcat]
+2025-03-05 20:27:07 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 20:27:07 -Initializing Spring embedded WebApplicationContext
+2025-03-05 20:27:07 -Root WebApplicationContext: initialization completed in 986 ms
+2025-03-05 20:27:08 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 20:27:09 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:27:09 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 20:27:09 -Started ServiceApplication in 4.86 seconds (JVM running for 5.663)
+2025-03-05 20:27:10 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 20:27:10 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:27:10 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8000 is already in use
+2025-03-05 20:27:10 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 20:27:10 -Pausing ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:27:10 -Stopping service [Tomcat]
+2025-03-05 20:27:10 -Stopping ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:27:10 -Destroying ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:27:10 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2025-03-05 20:27:10 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8000 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8000 or configure this application to listen on another port.
+
+2025-03-05 20:27:15 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 20:27:21 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 20804 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 20:27:21 -The following profiles are active: dev
+2025-03-05 20:27:21 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 20:27:21 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 20:27:21 -Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2025-03-05 20:27:22 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 20:27:22 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:27:22 -Starting service [Tomcat]
+2025-03-05 20:27:22 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 20:27:22 -Initializing Spring embedded WebApplicationContext
+2025-03-05 20:27:22 -Root WebApplicationContext: initialization completed in 884 ms
+2025-03-05 20:27:23 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 20:27:23 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:27:23 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 20:27:23 -Started ServiceApplication in 2.918 seconds (JVM running for 3.501)
+2025-03-05 20:27:28 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 20:27:28 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 20:27:28 -Completed initialization in 8 ms
+2025-03-05 20:29:33 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 20:29:39 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 33116 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 20:29:39 -The following profiles are active: dev
+2025-03-05 20:29:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 20:29:40 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 20:29:40 -Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+2025-03-05 20:29:40 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 20:29:40 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:29:40 -Starting service [Tomcat]
+2025-03-05 20:29:40 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 20:29:40 -Initializing Spring embedded WebApplicationContext
+2025-03-05 20:29:40 -Root WebApplicationContext: initialization completed in 897 ms
+2025-03-05 20:29:41 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 20:29:42 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:29:42 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 20:29:42 -Started ServiceApplication in 2.99 seconds (JVM running for 3.582)
+2025-03-05 20:29:49 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 20:29:53 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 22808 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-05 20:29:53 -The following profiles are active: dev
+2025-03-05 20:29:54 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-05 20:29:54 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-05 20:29:54 -Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+2025-03-05 20:29:54 -Tomcat initialized with port(s): 8000 (http)
+2025-03-05 20:29:54 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:29:54 -Starting service [Tomcat]
+2025-03-05 20:29:54 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-05 20:29:54 -Initializing Spring embedded WebApplicationContext
+2025-03-05 20:29:54 -Root WebApplicationContext: initialization completed in 901 ms
+2025-03-05 20:29:56 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-05 20:29:56 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-05 20:29:56 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-05 20:29:56 -Started ServiceApplication in 2.919 seconds (JVM running for 3.516)
+2025-03-05 20:29:58 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-05 20:29:58 -Initializing Servlet 'dispatcherServlet'
+2025-03-05 20:29:58 -Completed initialization in 5 ms
+2025-03-05 20:29:58 -HikariPool-1 - Starting...
+2025-03-05 20:29:59 -HikariPool-1 - Start completed.
+2025-03-05 20:30:13 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-05 20:30:13 -HikariPool-1 - Shutdown initiated...
+2025-03-05 20:30:13 -HikariPool-1 - Shutdown completed.

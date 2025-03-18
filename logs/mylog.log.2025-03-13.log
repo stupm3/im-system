@@ -1,0 +1,13 @@
+2025-03-13 20:59:33 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 11840 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-13 20:59:33 -The following profiles are active: dev
+2025-03-13 20:59:36 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-13 20:59:36 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-13 20:59:36 -Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+2025-03-13 20:59:36 -Tomcat initialized with port(s): 8000 (http)
+2025-03-13 20:59:36 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-13 20:59:36 -Starting service [Tomcat]
+2025-03-13 20:59:36 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-13 20:59:36 -Initializing Spring embedded WebApplicationContext
+2025-03-13 20:59:36 -Root WebApplicationContext: initialization completed in 2972 ms
+2025-03-13 20:59:45 -Starting ServerApplication on LAPTOP-H0PN2NG1 with PID 19776 (F:\JavaProject\im-system\im-message-store\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-13 20:59:45 -The following profiles are active: dev

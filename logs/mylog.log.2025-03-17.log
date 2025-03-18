@@ -1,0 +1,871 @@
+2025-03-17 15:32:48 -Starting ServerApplication on LAPTOP-H0PN2NG1 with PID 24664 (F:\JavaProject\im-system\im-message-store\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 15:32:48 -The following profiles are active: dev
+2025-03-17 15:32:49 -Tomcat initialized with port(s): 8001 (http)
+2025-03-17 15:32:49 -Initializing ProtocolHandler ["http-nio-8001"]
+2025-03-17 15:32:49 -Starting service [Tomcat]
+2025-03-17 15:32:49 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 15:32:49 -Initializing Spring embedded WebApplicationContext
+2025-03-17 15:32:49 -Root WebApplicationContext: initialization completed in 1107 ms
+2025-03-17 15:32:50 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 15:32:51 -Starting ProtocolHandler ["http-nio-8001"]
+2025-03-17 15:32:51 -Tomcat started on port(s): 8001 (http) with context path ''
+2025-03-17 15:32:51 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 15:32:51 -Created new connection: rabbitConnectionFactory#fabb651:0/SimpleConnection@4beaf6bd [delegate=amqp://guest@192.168.111.130:5672/, localPort= 5961]
+2025-03-17 15:32:51 -Started ServerApplication in 3.341 seconds (JVM running for 4.493)
+2025-03-17 15:32:54 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 28136 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 15:32:54 -The following profiles are active: dev
+2025-03-17 15:32:58 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 15:32:58 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 15:32:58 -Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+2025-03-17 15:32:58 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 15:32:58 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 15:32:58 -Starting service [Tomcat]
+2025-03-17 15:32:58 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 15:32:58 -Initializing Spring embedded WebApplicationContext
+2025-03-17 15:32:58 -Root WebApplicationContext: initialization completed in 3611 ms
+2025-03-17 15:33:00 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 15:33:00 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 15:33:00 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 15:33:00 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 15:33:00 -Created new connection: rabbitConnectionFactory#f6de586:0/SimpleConnection@1ca610a0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 5979]
+2025-03-17 15:33:00 -Started ServiceApplication in 6.162 seconds (JVM running for 6.944)
+2025-03-17 15:33:13 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 15:33:13 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 15:33:13 -Completed initialization in 9 ms
+2025-03-17 15:33:13 -HikariPool-1 - Starting...
+2025-03-17 15:33:14 -HikariPool-1 - Start completed.
+2025-03-17 15:33:40 -Waiting for workers to finish.
+2025-03-17 15:33:40 -Successfully waited for workers to finish.
+2025-03-17 15:33:40 -Waiting for workers to finish.
+2025-03-17 15:33:41 -Successfully waited for workers to finish.
+2025-03-17 15:33:41 -Shutdown ignored - container is not active already
+2025-03-17 15:33:41 -Shutdown ignored - container is not active already
+2025-03-17 15:33:41 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 15:33:46 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 1964 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 15:33:46 -The following profiles are active: dev
+2025-03-17 15:33:47 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 15:33:47 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 15:33:47 -Finished Spring Data repository scanning in 15ms. Found 0 Redis repository interfaces.
+2025-03-17 15:33:47 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 15:33:47 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 15:33:47 -Starting service [Tomcat]
+2025-03-17 15:33:47 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 15:33:48 -Initializing Spring embedded WebApplicationContext
+2025-03-17 15:33:48 -Root WebApplicationContext: initialization completed in 1135 ms
+2025-03-17 15:33:49 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 15:33:49 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 15:33:49 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 15:33:49 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 15:33:49 -Created new connection: rabbitConnectionFactory#37468787:0/SimpleConnection@33feda48 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 6383]
+2025-03-17 15:33:50 -Started ServiceApplication in 3.615 seconds (JVM running for 4.87)
+2025-03-17 15:34:01 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 15:34:01 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 15:34:01 -Completed initialization in 7 ms
+2025-03-17 15:34:12 -HikariPool-1 - Starting...
+2025-03-17 15:34:12 -HikariPool-1 - Start completed.
+2025-03-17 15:35:03 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50s598ms844µs300ns).
+2025-03-17 15:36:32 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=58s499ms960µs600ns).
+2025-03-17 15:40:04 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m2s37ms634µs800ns).
+2025-03-17 15:41:13 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m8s753ms824µs400ns).
+2025-03-17 15:44:48 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m35s134ms769µs200ns).
+2025-03-17 15:44:48 -An unexpected connection driver error occured (Exception message: Connection reset)
+2025-03-17 15:44:48 -Channel shutdown: connection error
+2025-03-17 15:44:48 -Channel shutdown: connection error
+2025-03-17 15:44:49 -Restarting Consumer@51da32e5: tags=[[amq.ctag-fy7c2wmqnHAUm6t26r7jww]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,1), conn: Proxy@373052b5 Shared Rabbit Connection: SimpleConnection@33feda48 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 6383], acknowledgeMode=AUTO local queue size=0
+2025-03-17 15:44:49 -Restarting Consumer@68ef01a5: tags=[[amq.ctag-qM8OApVwIeoujWThGtFHJQ]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@373052b5 Shared Rabbit Connection: SimpleConnection@33feda48 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 6383], acknowledgeMode=AUTO local queue size=0
+2025-03-17 15:44:49 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 15:44:49 -Created new connection: rabbitConnectionFactory#37468787:1/SimpleConnection@4a0a6327 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 7382]
+2025-03-17 15:46:38 -Waiting for workers to finish.
+2025-03-17 15:46:38 -Waiting for workers to finish.
+2025-03-17 15:46:38 -Successfully waited for workers to finish.
+2025-03-17 15:46:38 -Waiting for workers to finish.
+2025-03-17 15:46:38 -Successfully waited for workers to finish.
+2025-03-17 15:46:38 -Waiting for workers to finish.
+2025-03-17 15:46:39 -Successfully waited for workers to finish.
+2025-03-17 15:46:39 -Shutdown ignored - container is not active already
+2025-03-17 15:46:39 -Shutdown ignored - container is not active already
+2025-03-17 15:46:39 -Successfully waited for workers to finish.
+2025-03-17 15:46:39 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 15:46:39 -Shutdown ignored - container is not active already
+2025-03-17 15:46:39 -Shutdown ignored - container is not active already
+2025-03-17 15:46:44 -HikariPool-1 - Shutdown initiated...
+2025-03-17 15:46:44 -HikariPool-1 - Shutdown completed.
+2025-03-17 15:46:44 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 15:56:09 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 27136 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 15:56:09 -The following profiles are active: dev
+2025-03-17 15:56:10 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 15:56:10 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 15:56:10 -Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+2025-03-17 15:56:11 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 15:56:11 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 15:56:11 -Starting service [Tomcat]
+2025-03-17 15:56:11 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 15:56:11 -Initializing Spring embedded WebApplicationContext
+2025-03-17 15:56:11 -Root WebApplicationContext: initialization completed in 1312 ms
+2025-03-17 15:56:12 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 15:56:13 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 15:56:13 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 15:56:13 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 15:56:13 -Created new connection: rabbitConnectionFactory#56cfe111:0/SimpleConnection@74b86971 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 8077]
+2025-03-17 15:56:13 -Started ServiceApplication in 3.738 seconds (JVM running for 4.377)
+2025-03-17 15:57:36 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 15:57:36 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 15:57:36 -Completed initialization in 8 ms
+2025-03-17 15:57:37 -HikariPool-1 - Starting...
+2025-03-17 15:57:37 -HikariPool-1 - Start completed.
+2025-03-17 15:57:59 -Waiting for workers to finish.
+2025-03-17 15:57:59 -Successfully waited for workers to finish.
+2025-03-17 15:57:59 -Waiting for workers to finish.
+2025-03-17 15:58:00 -Successfully waited for workers to finish.
+2025-03-17 15:58:01 -Shutdown ignored - container is not active already
+2025-03-17 15:58:01 -Shutdown ignored - container is not active already
+2025-03-17 15:58:01 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 15:58:04 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 49008 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 15:58:04 -The following profiles are active: dev
+2025-03-17 15:58:05 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 15:58:05 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 15:58:05 -Finished Spring Data repository scanning in 15ms. Found 0 Redis repository interfaces.
+2025-03-17 15:58:05 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 15:58:05 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 15:58:05 -Starting service [Tomcat]
+2025-03-17 15:58:05 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 15:58:05 -Initializing Spring embedded WebApplicationContext
+2025-03-17 15:58:05 -Root WebApplicationContext: initialization completed in 1103 ms
+2025-03-17 15:58:07 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 15:58:07 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 15:58:07 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 15:58:07 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 15:58:07 -Created new connection: rabbitConnectionFactory#4bd51d3e:0/SimpleConnection@3730f716 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 8298]
+2025-03-17 15:58:07 -Started ServiceApplication in 3.501 seconds (JVM running for 4.299)
+2025-03-17 15:58:12 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 15:58:12 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 15:58:12 -Completed initialization in 9 ms
+2025-03-17 15:58:19 -HikariPool-1 - Starting...
+2025-03-17 15:58:19 -HikariPool-1 - Start completed.
+2025-03-17 15:58:36 -Waiting for workers to finish.
+2025-03-17 15:58:37 -Successfully waited for workers to finish.
+2025-03-17 15:58:37 -Waiting for workers to finish.
+2025-03-17 15:58:38 -Successfully waited for workers to finish.
+2025-03-17 15:58:38 -Shutdown ignored - container is not active already
+2025-03-17 15:58:38 -Shutdown ignored - container is not active already
+2025-03-17 15:58:38 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 15:58:43 -HikariPool-1 - Shutdown initiated...
+2025-03-17 15:58:43 -HikariPool-1 - Shutdown completed.
+2025-03-17 15:58:49 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 23948 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 15:58:49 -The following profiles are active: dev
+2025-03-17 15:58:49 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 15:58:49 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 15:58:49 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2025-03-17 15:58:50 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 15:58:50 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 15:58:50 -Starting service [Tomcat]
+2025-03-17 15:58:50 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 15:58:50 -Initializing Spring embedded WebApplicationContext
+2025-03-17 15:58:50 -Root WebApplicationContext: initialization completed in 1023 ms
+2025-03-17 15:58:51 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 15:58:52 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 15:58:52 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 15:58:52 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 15:58:52 -Created new connection: rabbitConnectionFactory#1937eaff:0/SimpleConnection@4342c13 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 8413]
+2025-03-17 15:58:52 -Started ServiceApplication in 3.424 seconds (JVM running for 4.23)
+2025-03-17 15:59:04 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 15:59:04 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 15:59:04 -Completed initialization in 6 ms
+2025-03-17 15:59:07 -HikariPool-1 - Starting...
+2025-03-17 15:59:07 -HikariPool-1 - Start completed.
+2025-03-17 16:11:46 -Waiting for workers to finish.
+2025-03-17 16:11:46 -Successfully waited for workers to finish.
+2025-03-17 16:11:46 -Waiting for workers to finish.
+2025-03-17 16:11:47 -Successfully waited for workers to finish.
+2025-03-17 16:11:48 -Shutdown ignored - container is not active already
+2025-03-17 16:11:48 -Shutdown ignored - container is not active already
+2025-03-17 16:11:48 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:11:56 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 18796 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 16:11:56 -The following profiles are active: dev
+2025-03-17 16:11:57 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 16:11:57 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 16:11:57 -Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+2025-03-17 16:11:57 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 16:11:57 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:11:57 -Starting service [Tomcat]
+2025-03-17 16:11:57 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 16:11:57 -Initializing Spring embedded WebApplicationContext
+2025-03-17 16:11:57 -Root WebApplicationContext: initialization completed in 1124 ms
+2025-03-17 16:11:59 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:11:59 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:11:59 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 16:11:59 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 16:11:59 -Created new connection: rabbitConnectionFactory#1c8f6a90:0/SimpleConnection@740b6628 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 9303]
+2025-03-17 16:11:59 -Started ServiceApplication in 3.634 seconds (JVM running for 4.423)
+2025-03-17 16:12:02 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 16:12:02 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 16:12:02 -Completed initialization in 5 ms
+2025-03-17 16:12:07 -HikariPool-1 - Starting...
+2025-03-17 16:12:08 -HikariPool-1 - Start completed.
+2025-03-17 16:13:10 -Waiting for workers to finish.
+2025-03-17 16:13:10 -Successfully waited for workers to finish.
+2025-03-17 16:13:10 -Waiting for workers to finish.
+2025-03-17 16:13:11 -Successfully waited for workers to finish.
+2025-03-17 16:13:12 -Shutdown ignored - container is not active already
+2025-03-17 16:13:12 -Shutdown ignored - container is not active already
+2025-03-17 16:13:12 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:13:19 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 8012 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 16:13:19 -The following profiles are active: dev
+2025-03-17 16:13:20 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 16:13:20 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 16:13:20 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2025-03-17 16:13:20 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 16:13:20 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:13:20 -Starting service [Tomcat]
+2025-03-17 16:13:20 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 16:13:21 -Initializing Spring embedded WebApplicationContext
+2025-03-17 16:13:21 -Root WebApplicationContext: initialization completed in 1074 ms
+2025-03-17 16:13:22 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:13:22 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:13:22 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 16:13:22 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 16:13:22 -Created new connection: rabbitConnectionFactory#1caa9eb6:0/SimpleConnection@17207f5b [delegate=amqp://guest@192.168.111.130:5672/, localPort= 9470]
+2025-03-17 16:13:22 -Started ServiceApplication in 3.461 seconds (JVM running for 4.235)
+2025-03-17 16:13:26 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 16:13:26 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 16:13:26 -Completed initialization in 5 ms
+2025-03-17 16:13:28 -HikariPool-1 - Starting...
+2025-03-17 16:13:28 -HikariPool-1 - Start completed.
+2025-03-17 16:16:28 -Waiting for workers to finish.
+2025-03-17 16:16:28 -Successfully waited for workers to finish.
+2025-03-17 16:16:28 -Waiting for workers to finish.
+2025-03-17 16:16:29 -Successfully waited for workers to finish.
+2025-03-17 16:16:30 -Shutdown ignored - container is not active already
+2025-03-17 16:16:30 -Shutdown ignored - container is not active already
+2025-03-17 16:16:30 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:16:34 -HikariPool-1 - Shutdown initiated...
+2025-03-17 16:16:34 -HikariPool-1 - Shutdown completed.
+2025-03-17 16:39:45 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 19864 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 16:39:45 -The following profiles are active: dev
+2025-03-17 16:39:46 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 16:39:46 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 16:39:46 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2025-03-17 16:39:46 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 16:39:46 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:39:46 -Starting service [Tomcat]
+2025-03-17 16:39:46 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 16:39:46 -Initializing Spring embedded WebApplicationContext
+2025-03-17 16:39:46 -Root WebApplicationContext: initialization completed in 1235 ms
+2025-03-17 16:39:48 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:39:48 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:39:48 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 16:39:48 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 16:39:48 -Created new connection: rabbitConnectionFactory#30ca0779:0/SimpleConnection@71e7adbb [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11510]
+2025-03-17 16:39:49 -Started ServiceApplication in 3.985 seconds (JVM running for 4.67)
+2025-03-17 16:39:50 -Starting ServerApplication on LAPTOP-H0PN2NG1 with PID 50040 (F:\JavaProject\im-system\im-message-store\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 16:39:50 -The following profiles are active: dev
+2025-03-17 16:39:51 -Tomcat initialized with port(s): 8001 (http)
+2025-03-17 16:39:51 -Initializing ProtocolHandler ["http-nio-8001"]
+2025-03-17 16:39:51 -Starting service [Tomcat]
+2025-03-17 16:39:51 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 16:39:51 -Initializing Spring embedded WebApplicationContext
+2025-03-17 16:39:51 -Root WebApplicationContext: initialization completed in 714 ms
+2025-03-17 16:39:51 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:39:52 -Starting ProtocolHandler ["http-nio-8001"]
+2025-03-17 16:39:52 -Tomcat started on port(s): 8001 (http) with context path ''
+2025-03-17 16:39:52 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 16:39:52 -Created new connection: rabbitConnectionFactory#642505c7:0/SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521]
+2025-03-17 16:39:52 -Started ServerApplication in 2.289 seconds (JVM running for 2.994)
+2025-03-17 16:41:58 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 16:41:58 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 16:41:58 -Completed initialization in 6 ms
+2025-03-17 16:41:58 -HikariPool-1 - Starting...
+2025-03-17 16:41:59 -HikariPool-1 - Start completed.
+2025-03-17 16:41:59 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"56483ca3-3294-4c16-8eef-1416cc91a129","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:42:00 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:42:00 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742200920250,"delFlag":0,"messageBody":"12333","messageKey":410832328458241,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"56483ca3-3294-4c16-8eef-1416cc91a129","messageSequence":1,"toId":"423"}}
+2025-03-17 16:42:00 -HikariPool-1 - Starting...
+2025-03-17 16:42:00 -HikariPool-1 - Start completed.
+2025-03-17 16:42:00 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:42:01 -Restarting Consumer@27f3f512: tags=[[amq.ctag-gsljs7f0wYWoQBGOSzQ03Q]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@1e3df614 Shared Rabbit Connection: SimpleConnection@71e7adbb [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11510], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:42:01 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"7e6df676-c70c-4d72-bb4f-0ecf165a1d90","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:42:01 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:42:01 -Restarting Consumer@6ede46f6: tags=[[amq.ctag-N8spi0aKVSw_jtEWFGHQBw]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:42:01 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742200921273,"delFlag":0,"messageBody":"12333","messageKey":410832330555393,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"7e6df676-c70c-4d72-bb4f-0ecf165a1d90","messageSequence":2,"toId":"423"}}
+2025-03-17 16:42:01 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:42:02 -Restarting Consumer@6ac1f039: tags=[[amq.ctag-8T_tPJeNCfmT96pXkBEObw]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@1e3df614 Shared Rabbit Connection: SimpleConnection@71e7adbb [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11510], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:42:02 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"a1b3347f-6979-482a-806b-4bc4aed7206b","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:42:02 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:42:02 -Received a frame on an unknown channel, ignoring it
+2025-03-17 16:42:02 -Received a frame on an unknown channel, ignoring it
+2025-03-17 16:42:02 -Received a frame on an unknown channel, ignoring it
+2025-03-17 16:42:02 -Restarting Consumer@42a95078: tags=[[amq.ctag-_oBED-iJQu5A9syYsg7UfQ]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:42:02 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742200922287,"delFlag":0,"messageBody":"12333","messageKey":410832332652545,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"a1b3347f-6979-482a-806b-4bc4aed7206b","messageSequence":3,"toId":"423"}}
+2025-03-17 16:42:02 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:42:03 -Restarting Consumer@3b7b22cf: tags=[[amq.ctag-aswviflluBJb_xUH1Az8Zw]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,3), conn: Proxy@1e3df614 Shared Rabbit Connection: SimpleConnection@71e7adbb [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11510], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:42:03 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"8f2b130e-c052-441b-854e-0b9b2667f32a","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:42:03 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:42:03 -Received a frame on an unknown channel, ignoring it
+2025-03-17 16:42:03 -Received a frame on an unknown channel, ignoring it
+2025-03-17 16:42:03 -Received a frame on an unknown channel, ignoring it
+2025-03-17 16:42:03 -Restarting Consumer@64f64780: tags=[[amq.ctag-YYwVNJKIbqiKJGvcXnKpXg]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:42:03 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742200923308,"delFlag":0,"messageBody":"12333","messageKey":410832334749697,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"8f2b130e-c052-441b-854e-0b9b2667f32a","messageSequence":4,"toId":"423"}}
+2025-03-17 16:42:03 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:42:04 -Restarting Consumer@429a5c34: tags=[[amq.ctag-VHLnZ_embjZp0H7YD08TQg]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,4), conn: Proxy@1e3df614 Shared Rabbit Connection: SimpleConnection@71e7adbb [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11510], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:42:04 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"1d4e9032-d18d-44e4-a3b1-88f5dea9f765","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:42:04 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:42:04 -Restarting Consumer@4eed187e: tags=[[amq.ctag-2cd0TGAN7QXekYpIL1VQ6Q]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:42:04 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742200924331,"delFlag":0,"messageBody":"12333","messageKey":410832336846849,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"1d4e9032-d18d-44e4-a3b1-88f5dea9f765","messageSequence":5,"toId":"423"}}
+2025-03-17 16:42:04 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:42:05 -Restarting Consumer@3742357b: tags=[[amq.ctag-7aJJHL1Aa-fPeH8M2KwUwA]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,5), conn: Proxy@1e3df614 Shared Rabbit Connection: SimpleConnection@71e7adbb [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11510], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:42:05 -Restarting Consumer@1396d2d5: tags=[[amq.ctag-RcqAFUHqtyB_PNYukkYWvQ]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:43:58 -Waiting for workers to finish.
+2025-03-17 16:43:59 -Successfully waited for workers to finish.
+2025-03-17 16:43:59 -Waiting for workers to finish.
+2025-03-17 16:43:59 -Successfully waited for workers to finish.
+2025-03-17 16:44:00 -Shutdown ignored - container is not active already
+2025-03-17 16:44:00 -Shutdown ignored - container is not active already
+2025-03-17 16:44:00 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:44:07 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 20036 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 16:44:07 -The following profiles are active: dev
+2025-03-17 16:44:08 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 16:44:08 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 16:44:08 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2025-03-17 16:44:08 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 16:44:08 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:44:08 -Starting service [Tomcat]
+2025-03-17 16:44:08 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 16:44:09 -Initializing Spring embedded WebApplicationContext
+2025-03-17 16:44:09 -Root WebApplicationContext: initialization completed in 1166 ms
+2025-03-17 16:44:10 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:44:11 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:44:11 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 16:44:11 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 16:44:11 -Created new connection: rabbitConnectionFactory#4993febc:0/SimpleConnection@18d11527 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 12411]
+2025-03-17 16:44:11 -Started ServiceApplication in 3.901 seconds (JVM running for 4.746)
+2025-03-17 16:44:20 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 16:44:20 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 16:44:20 -Completed initialization in 6 ms
+2025-03-17 16:44:20 -HikariPool-1 - Starting...
+2025-03-17 16:44:20 -HikariPool-1 - Start completed.
+2025-03-17 16:44:21 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"c9672797-9e6c-4a48-a443-0bf86ca67956","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:44:21 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:44:21 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742201061774,"delFlag":0,"messageBody":"12333","messageKey":410832624156673,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"c9672797-9e6c-4a48-a443-0bf86ca67956","messageSequence":6,"toId":"423"}}
+2025-03-17 16:44:21 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:44:22 -Restarting Consumer@2d3c0e52: tags=[[amq.ctag-VTw8FBF1jj3HliLroSx94g]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:44:34 -Restarting Consumer@64763e49: tags=[[amq.ctag-XzwAmYZoslixdf3Pgsd24g]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@3663d0ba Shared Rabbit Connection: SimpleConnection@18d11527 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 12411], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:45:37 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"9d2511a6-1db0-4361-8bcb-a5a74656b49c","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:45:37 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:45:37 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742201137691,"delFlag":0,"messageBody":"12333","messageKey":410832783540225,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"9d2511a6-1db0-4361-8bcb-a5a74656b49c","messageSequence":7,"toId":"423"}}
+2025-03-17 16:45:37 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:45:38 -Restarting Consumer@2c01e5c2: tags=[[amq.ctag-GUqFNmC3_TyU3GUaHixy9w]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:45:41 -Restarting Consumer@65e5c06e: tags=[[amq.ctag-Shb5W6Hbk0mJHFxQTkTAWw]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@3663d0ba Shared Rabbit Connection: SimpleConnection@18d11527 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 12411], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:46:16 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s12ms272µs500ns).
+2025-03-17 16:48:24 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"d5521254-d12b-42a7-8642-6db4f880dda9","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:48:24 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:48:24 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742201304257,"delFlag":0,"messageBody":"12333","messageKey":410833133764609,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"d5521254-d12b-42a7-8642-6db4f880dda9","messageSequence":8,"toId":"423"}}
+2025-03-17 16:48:24 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:48:25 -Restarting Consumer@40b49123: tags=[[amq.ctag-Rn7AVu-P_nO-LMeTFMlIug]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:48:39 -Restarting Consumer@9cd7f00: tags=[[amq.ctag-tFk0h6tHZfoYkRCigbxDbg]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,3), conn: Proxy@3663d0ba Shared Rabbit Connection: SimpleConnection@18d11527 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 12411], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:51:09 -Waiting for workers to finish.
+2025-03-17 16:51:10 -Successfully waited for workers to finish.
+2025-03-17 16:51:10 -Waiting for workers to finish.
+2025-03-17 16:51:11 -Successfully waited for workers to finish.
+2025-03-17 16:51:11 -Shutdown ignored - container is not active already
+2025-03-17 16:51:11 -Shutdown ignored - container is not active already
+2025-03-17 16:51:11 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:51:16 -HikariPool-1 - Shutdown initiated...
+2025-03-17 16:51:16 -HikariPool-1 - Shutdown completed.
+2025-03-17 16:51:23 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 43460 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 16:51:23 -The following profiles are active: dev
+2025-03-17 16:51:23 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 16:51:23 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 16:51:23 -Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+2025-03-17 16:51:24 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 16:51:24 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:51:24 -Starting service [Tomcat]
+2025-03-17 16:51:24 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 16:51:24 -Initializing Spring embedded WebApplicationContext
+2025-03-17 16:51:24 -Root WebApplicationContext: initialization completed in 992 ms
+2025-03-17 16:51:25 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:51:25 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:51:25 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 16:51:25 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 16:51:25 -Created new connection: rabbitConnectionFactory#4993febc:0/SimpleConnection@18d11527 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 13227]
+2025-03-17 16:51:26 -Started ServiceApplication in 3.403 seconds (JVM running for 4.177)
+2025-03-17 16:51:30 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 16:51:30 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 16:51:30 -Completed initialization in 6 ms
+2025-03-17 16:51:30 -HikariPool-1 - Starting...
+2025-03-17 16:51:31 -HikariPool-1 - Start completed.
+2025-03-17 16:51:31 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"1993bad6-ee58-464f-b4a2-f771262e3e9a","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:51:32 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:51:32 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742201492074,"delFlag":0,"messageBody":"12333","messageKey":410833528029185,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"1993bad6-ee58-464f-b4a2-f771262e3e9a","messageSequence":9,"toId":"423"}}
+2025-03-17 16:51:32 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:51:33 -Restarting Consumer@64763e49: tags=[[amq.ctag-3are4uA_3mTDVhhaKoIhgw]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@3663d0ba Shared Rabbit Connection: SimpleConnection@18d11527 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 13227], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:51:33 -Restarting Consumer@64a79786: tags=[[amq.ctag-mNx6kpQurz2hKFqP6nqgIw]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:52:03 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"cb88576e-e6a6-4d88-8631-13eb5dc6d0dc","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:52:03 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:52:03 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742201523008,"delFlag":0,"messageBody":"12333","messageKey":410833590943745,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"cb88576e-e6a6-4d88-8631-13eb5dc6d0dc","messageSequence":10,"toId":"423"}}
+2025-03-17 16:52:03 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:52:04 -Restarting Consumer@1a6cb61e: tags=[[amq.ctag-waxifPIlc4dz2kiVV2YQjg]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:52:05 -Restarting Consumer@75fb7eca: tags=[[amq.ctag-DWBQ4S0A2YPv6Q5nNY_Z-Q]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@3663d0ba Shared Rabbit Connection: SimpleConnection@18d11527 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 13227], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:53:55 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m53s891ms445µs100ns).
+2025-03-17 16:53:58 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"3367e8c2-a3d1-4445-80fc-8ccae0d189bf","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:53:58 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:53:58 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742201638621,"delFlag":0,"messageBody":"12333","messageKey":410833834213377,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"3367e8c2-a3d1-4445-80fc-8ccae0d189bf","messageSequence":11,"toId":"423"}}
+2025-03-17 16:53:58 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:53:59 -Restarting Consumer@95c4660: tags=[[amq.ctag-Ioae9Z6cszikpqhtz3iqSQ]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:54:01 -Restarting Consumer@dbd8632: tags=[[amq.ctag-P1CW7uW9tuNlF3kxxY1D2w]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,3), conn: Proxy@3663d0ba Shared Rabbit Connection: SimpleConnection@18d11527 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 13227], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:54:31 -Waiting for workers to finish.
+2025-03-17 16:54:31 -Successfully waited for workers to finish.
+2025-03-17 16:54:31 -Waiting for workers to finish.
+2025-03-17 16:54:32 -Successfully waited for workers to finish.
+2025-03-17 16:54:32 -Shutdown ignored - container is not active already
+2025-03-17 16:54:32 -Shutdown ignored - container is not active already
+2025-03-17 16:54:32 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:54:36 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 20232 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 16:54:36 -The following profiles are active: dev
+2025-03-17 16:54:36 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 16:54:36 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 16:54:36 -Finished Spring Data repository scanning in 11ms. Found 0 Redis repository interfaces.
+2025-03-17 16:54:37 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 16:54:37 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:54:37 -Starting service [Tomcat]
+2025-03-17 16:54:37 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 16:54:37 -Initializing Spring embedded WebApplicationContext
+2025-03-17 16:54:37 -Root WebApplicationContext: initialization completed in 1095 ms
+2025-03-17 16:54:39 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:54:39 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:54:39 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 16:54:39 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 16:54:39 -Created new connection: rabbitConnectionFactory#1c8f6a90:0/SimpleConnection@766a52f5 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 13740]
+2025-03-17 16:54:39 -Started ServiceApplication in 3.526 seconds (JVM running for 4.307)
+2025-03-17 16:54:43 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 16:54:43 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 16:54:43 -Completed initialization in 6 ms
+2025-03-17 16:54:43 -HikariPool-1 - Starting...
+2025-03-17 16:54:43 -HikariPool-1 - Start completed.
+2025-03-17 16:54:43 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"aad0a060-c41f-42c6-98e0-76cba11c7874","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:54:44 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:54:44 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742201684352,"delFlag":0,"messageBody":"12333","messageKey":410833930682369,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"aad0a060-c41f-42c6-98e0-76cba11c7874","messageSequence":12,"toId":"423"}}
+2025-03-17 16:54:44 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:54:45 -Restarting Consumer@4f596ab5: tags=[[amq.ctag-PfRpluijL0sr9qYltgtvTg]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@62e93c3a Shared Rabbit Connection: SimpleConnection@13d9261f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11521], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:55:16 -Restarting Consumer@13ed066e: tags=[[amq.ctag-2Tk8UzSp-Xqyl_WppjgQXQ]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@7d8cf9ac Shared Rabbit Connection: SimpleConnection@766a52f5 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 13740], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:55:22 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12333","appId":10000,"messageId":"5ef80183-d8ab-44f3-9493-c12ae8afde21","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:57:10 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m53s998ms442µs900ns).
+2025-03-17 16:57:10 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:57:10 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742201830453,"delFlag":0,"messageBody":"12333","messageKey":410834236866561,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12333","messageId":"5ef80183-d8ab-44f3-9493-c12ae8afde21","messageSequence":13,"toId":"423"}}
+2025-03-17 16:57:10 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:57:10 -Waiting for workers to finish.
+2025-03-17 16:57:10 -Waiting for workers to finish.
+2025-03-17 16:57:11 -Successfully waited for workers to finish.
+2025-03-17 16:57:11 -Waiting for workers to finish.
+2025-03-17 16:57:11 -Successfully waited for workers to finish.
+2025-03-17 16:57:11 -Successfully waited for workers to finish.
+2025-03-17 16:57:11 -Waiting for workers to finish.
+2025-03-17 16:57:11 -Successfully waited for workers to finish.
+2025-03-17 16:57:11 -Shutdown ignored - container is not active already
+2025-03-17 16:57:11 -Shutdown ignored - container is not active already
+2025-03-17 16:57:11 -Shutdown ignored - container is not active already
+2025-03-17 16:57:11 -Shutdown ignored - container is not active already
+2025-03-17 16:57:11 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:57:17 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 18312 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 16:57:17 -The following profiles are active: dev
+2025-03-17 16:57:18 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 16:57:18 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 16:57:18 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2025-03-17 16:57:18 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 16:57:18 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:57:18 -Starting service [Tomcat]
+2025-03-17 16:57:18 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 16:57:18 -Initializing Spring embedded WebApplicationContext
+2025-03-17 16:57:18 -Root WebApplicationContext: initialization completed in 1042 ms
+2025-03-17 16:57:20 -Starting ServerApplication on LAPTOP-H0PN2NG1 with PID 47468 (F:\JavaProject\im-system\im-message-store\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 16:57:20 -The following profiles are active: dev
+2025-03-17 16:57:20 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:57:21 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 16:57:21 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 16:57:21 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 16:57:21 -Created new connection: rabbitConnectionFactory#2975a9e:0/SimpleConnection@575cabf0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 14108]
+2025-03-17 16:57:21 -Started ServiceApplication in 3.929 seconds (JVM running for 4.742)
+2025-03-17 16:57:21 -Tomcat initialized with port(s): 8001 (http)
+2025-03-17 16:57:21 -Initializing ProtocolHandler ["http-nio-8001"]
+2025-03-17 16:57:21 -Starting service [Tomcat]
+2025-03-17 16:57:21 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 16:57:21 -Initializing Spring embedded WebApplicationContext
+2025-03-17 16:57:21 -Root WebApplicationContext: initialization completed in 891 ms
+2025-03-17 16:57:22 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 16:57:22 -Starting ProtocolHandler ["http-nio-8001"]
+2025-03-17 16:57:22 -Tomcat started on port(s): 8001 (http) with context path ''
+2025-03-17 16:57:23 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 16:57:23 -Created new connection: rabbitConnectionFactory#764cba:0/SimpleConnection@2af69643 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 14118]
+2025-03-17 16:57:23 -Started ServerApplication in 2.891 seconds (JVM running for 3.78)
+2025-03-17 16:57:40 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 16:57:40 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 16:57:40 -Completed initialization in 6 ms
+2025-03-17 16:57:40 -HikariPool-1 - Starting...
+2025-03-17 16:57:41 -HikariPool-1 - Start completed.
+2025-03-17 16:58:16 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12312323","appId":10000,"messageId":"b34a3eb6-5b64-4966-a2bd-160642bcdf8c","imei":"500","fromId":"123","command":1103}
+2025-03-17 16:59:06 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:59:06 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742201946429,"delFlag":0,"messageBody":"12312323","messageKey":410834480136193,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12312323","messageId":"b34a3eb6-5b64-4966-a2bd-160642bcdf8c","messageSequence":14,"toId":"423"}}
+2025-03-17 16:59:06 -HikariPool-1 - Starting...
+2025-03-17 16:59:06 -HikariPool-1 - Start completed.
+2025-03-17 16:59:06 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 16:59:07 -Restarting Consumer@78054f54: tags=[[amq.ctag-qfmA3lB-Hj7Tx0LcOUbQ4Q]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@48d293ee Shared Rabbit Connection: SimpleConnection@2af69643 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 14118], acknowledgeMode=AUTO local queue size=0
+2025-03-17 16:59:16 -Restarting Consumer@3e546734: tags=[[amq.ctag-hoR7w4NMFu328iggybJ-fg]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@30bf26df Shared Rabbit Connection: SimpleConnection@575cabf0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 14108], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:00:31 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12312323","appId":10000,"messageId":"841657b5-efc4-4803-84ce-eba2b99cca19","imei":"500","fromId":"123","command":1103}
+2025-03-17 17:01:06 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:01:06 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742202066220,"delFlag":0,"messageBody":"12312323","messageKey":410834731794433,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12312323","messageId":"841657b5-efc4-4803-84ce-eba2b99cca19","messageSequence":15,"toId":"423"}}
+2025-03-17 17:01:06 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:01:07 -Restarting Consumer@2c855176: tags=[[amq.ctag-VzbZlPythT9G_uCeDaO8lQ]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@30bf26df Shared Rabbit Connection: SimpleConnection@575cabf0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 14108], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:01:07 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12312323","appId":10000,"messageId":"120a1551-8bbb-4139-850a-29353b5fa2e3","imei":"500","fromId":"123","command":1103}
+2025-03-17 17:01:07 -Restarting Consumer@79c33fe: tags=[[amq.ctag--rH8D9K89zj7F8I3BXrtmQ]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@48d293ee Shared Rabbit Connection: SimpleConnection@2af69643 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 14118], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:01:09 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:01:09 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742202069343,"delFlag":0,"messageBody":"12312323","messageKey":410834738085889,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12312323","messageId":"120a1551-8bbb-4139-850a-29353b5fa2e3","messageSequence":16,"toId":"423"}}
+2025-03-17 17:01:09 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:01:10 -Restarting Consumer@6b5c2222: tags=[[amq.ctag-Rca9ydb5M4_7w3cayibZYA]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,3), conn: Proxy@30bf26df Shared Rabbit Connection: SimpleConnection@575cabf0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 14108], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:01:10 -Restarting Consumer@727e06e1: tags=[[amq.ctag-L0ECiXiTHYrSLoEgTqj5-w]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@48d293ee Shared Rabbit Connection: SimpleConnection@2af69643 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 14118], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:07:22 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12312323","appId":10000,"messageId":"c840ddcb-4527-4ece-84d2-76d7708b790a","imei":"500","fromId":"123","command":1103}
+2025-03-17 17:08:08 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:08:09 -Restarting Consumer@1dbdae7e: tags=[[amq.ctag-iCQ_zHl1dD8-e3Mi97BRMw]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,4), conn: Proxy@30bf26df Shared Rabbit Connection: SimpleConnection@575cabf0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 14108], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:08:25 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742202488983,"delFlag":0,"messageBody":"12312323","messageKey":410835616792577,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12312323","messageId":"c840ddcb-4527-4ece-84d2-76d7708b790a","messageSequence":17,"toId":"423"}}
+2025-03-17 17:08:49 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:08:50 -Restarting Consumer@49b4d714: tags=[[amq.ctag-qP5U5SZRO5ipLLTiE3a2SA]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@48d293ee Shared Rabbit Connection: SimpleConnection@2af69643 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 14118], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:09:19 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"12312323","appId":10000,"messageId":"51cb0b2b-aa7a-450f-a161-ed6fe76c62a1","imei":"500","fromId":"123","command":1103}
+2025-03-17 17:09:58 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:09:59 -Restarting Consumer@459ab991: tags=[[amq.ctag-jUTbWJH6SJWQCZhwNRTOdQ]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,5), conn: Proxy@30bf26df Shared Rabbit Connection: SimpleConnection@575cabf0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 14108], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:10:10 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742202598926,"delFlag":0,"messageBody":"12312323","messageKey":410835847479297,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"12312323","messageId":"51cb0b2b-aa7a-450f-a161-ed6fe76c62a1","messageSequence":18,"toId":"423"}}
+2025-03-17 17:11:33 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m23s529ms573µs600ns).
+2025-03-17 17:11:33 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:11:33 -Waiting for workers to finish.
+2025-03-17 17:11:33 -Waiting for workers to finish.
+2025-03-17 17:11:34 -Successfully waited for workers to finish.
+2025-03-17 17:11:34 -Waiting for workers to finish.
+2025-03-17 17:11:34 -Successfully waited for workers to finish.
+2025-03-17 17:11:34 -Waiting for workers to finish.
+2025-03-17 17:11:34 -Successfully waited for workers to finish.
+2025-03-17 17:11:34 -Shutdown ignored - container is not active already
+2025-03-17 17:11:34 -Shutdown ignored - container is not active already
+2025-03-17 17:11:35 -Successfully waited for workers to finish.
+2025-03-17 17:11:35 -Shutdown ignored - container is not active already
+2025-03-17 17:11:35 -Shutdown ignored - container is not active already
+2025-03-17 17:11:35 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 17:13:25 -Starting ServerApplication on LAPTOP-H0PN2NG1 with PID 45204 (F:\JavaProject\im-system\im-message-store\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 17:13:25 -The following profiles are active: dev
+2025-03-17 17:13:26 -Tomcat initialized with port(s): 8001 (http)
+2025-03-17 17:13:26 -Initializing ProtocolHandler ["http-nio-8001"]
+2025-03-17 17:13:26 -Starting service [Tomcat]
+2025-03-17 17:13:26 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 17:13:26 -Initializing Spring embedded WebApplicationContext
+2025-03-17 17:13:26 -Root WebApplicationContext: initialization completed in 859 ms
+2025-03-17 17:13:27 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 17:13:28 -Starting ProtocolHandler ["http-nio-8001"]
+2025-03-17 17:13:28 -Tomcat started on port(s): 8001 (http) with context path ''
+2025-03-17 17:13:28 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 17:13:28 -Created new connection: rabbitConnectionFactory#764cba:0/SimpleConnection@2af69643 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2596]
+2025-03-17 17:13:28 -Started ServerApplication in 2.908 seconds (JVM running for 3.631)
+2025-03-17 17:13:28 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 20560 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 17:13:28 -The following profiles are active: dev
+2025-03-17 17:13:29 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 17:13:29 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 17:13:29 -Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+2025-03-17 17:13:29 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 17:13:29 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 17:13:29 -Starting service [Tomcat]
+2025-03-17 17:13:29 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 17:13:29 -Initializing Spring embedded WebApplicationContext
+2025-03-17 17:13:29 -Root WebApplicationContext: initialization completed in 1142 ms
+2025-03-17 17:13:31 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 17:13:31 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 17:13:31 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 17:13:31 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 17:13:31 -Created new connection: rabbitConnectionFactory#58740366:0/SimpleConnection@7c1a8f0f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2612]
+2025-03-17 17:13:31 -Started ServiceApplication in 3.663 seconds (JVM running for 4.52)
+2025-03-17 17:13:55 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 17:13:55 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 17:13:55 -Completed initialization in 6 ms
+2025-03-17 17:13:55 -HikariPool-1 - Starting...
+2025-03-17 17:13:55 -HikariPool-1 - Start completed.
+2025-03-17 17:13:55 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"100232","appId":10000,"messageId":"c90f56b6-4852-405a-8ccc-c28884e202db","imei":"500","fromId":"123","command":1103}
+2025-03-17 17:13:56 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:14:03 -Restarting Consumer@78da899f: tags=[[amq.ctag-0BIxNOF8qnV720zrHrH3Hg]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@7e87ef9e Shared Rabbit Connection: SimpleConnection@7c1a8f0f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2612], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:14:53 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=57s273ms58µs200ns).
+2025-03-17 17:14:56 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742202843556,"delFlag":0,"messageBody":"100232","messageKey":410836361281537,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"100232","messageId":"c90f56b6-4852-405a-8ccc-c28884e202db","messageSequence":19,"toId":"423"}}
+2025-03-17 17:14:56 -HikariPool-1 - Starting...
+2025-03-17 17:14:56 -HikariPool-1 - Start completed.
+2025-03-17 17:14:56 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:14:57 -Restarting Consumer@78054f54: tags=[[amq.ctag-KsrbhjpRSN-AKNJuKIco6w]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@48d293ee Shared Rabbit Connection: SimpleConnection@2af69643 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2596], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:15:46 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53s411ms617µs800ns).
+2025-03-17 17:15:47 -Waiting for workers to finish.
+2025-03-17 17:15:47 -Successfully waited for workers to finish.
+2025-03-17 17:15:47 -Waiting for workers to finish.
+2025-03-17 17:15:48 -Successfully waited for workers to finish.
+2025-03-17 17:15:48 -Shutdown ignored - container is not active already
+2025-03-17 17:15:48 -Shutdown ignored - container is not active already
+2025-03-17 17:15:48 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 17:15:55 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 52068 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 17:15:55 -The following profiles are active: dev
+2025-03-17 17:15:55 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 17:15:55 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 17:15:55 -Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+2025-03-17 17:15:56 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 17:15:56 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 17:15:56 -Starting service [Tomcat]
+2025-03-17 17:15:56 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 17:15:56 -Initializing Spring embedded WebApplicationContext
+2025-03-17 17:15:56 -Root WebApplicationContext: initialization completed in 1042 ms
+2025-03-17 17:15:57 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 17:15:58 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 17:15:58 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 17:15:58 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 17:15:58 -Created new connection: rabbitConnectionFactory#37468787:0/SimpleConnection@52c9d3d0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2991]
+2025-03-17 17:15:58 -Started ServiceApplication in 3.557 seconds (JVM running for 5.711)
+2025-03-17 17:16:00 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 17:16:00 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 17:16:00 -Completed initialization in 6 ms
+2025-03-17 17:16:00 -HikariPool-1 - Starting...
+2025-03-17 17:16:01 -HikariPool-1 - Start completed.
+2025-03-17 17:16:01 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"100232","appId":10000,"messageId":"e69c9cb0-34d2-4517-b759-0ea297d21da7","imei":"500","fromId":"123","command":1103}
+2025-03-17 17:16:02 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:16:02 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742202962046,"delFlag":0,"messageBody":"100232","messageKey":410836610842625,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"100232","messageId":"e69c9cb0-34d2-4517-b759-0ea297d21da7","messageKey":410836610842625,"messageSequence":20,"toId":"423"}}
+2025-03-17 17:16:02 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:16:02 -msg ack ,msgId:e69c9cb0-34d2-4517-b759-0ea297d21da7,checkResult:200
+2025-03-17 17:16:02 -send message == {"appId":10000,"clientType":1,"command":1046,"data":{"msg":"success","code":200,"data":{"messageId":"e69c9cb0-34d2-4517-b759-0ea297d21da7","messageSequence":20},"ok":true},"imei":"500","toId":"123"}
+2025-03-17 17:16:02 -send message == {"appId":10000,"clientType":1,"command":1107,"data":{"toId":"123","messageKey":410836610842625,"serverSend":true,"messageSequence":20,"fromId":"423"},"imei":"500","toId":"123"}
+2025-03-17 17:16:03 -Restarting Consumer@3dc40ab9: tags=[[amq.ctag-VDOkgGJup1LnwEcYh2kyew]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@6fe595dc Shared Rabbit Connection: SimpleConnection@52c9d3d0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2991], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:16:03 -Restarting Consumer@79631300: tags=[[amq.ctag-mU0VbygmSLNmBLSiNBcP2w]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@48d293ee Shared Rabbit Connection: SimpleConnection@2af69643 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2596], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:17:52 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"100232","appId":10000,"messageId":"badb88c1-7d50-493e-8ec5-161b693f7f87","imei":"500","fromId":"123","command":1103}
+2025-03-17 17:17:52 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:17:52 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742203072477,"delFlag":0,"messageBody":"100232","messageKey":410836841529345,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"100232","messageId":"badb88c1-7d50-493e-8ec5-161b693f7f87","messageKey":410836841529345,"messageSequence":21,"toId":"423"}}
+2025-03-17 17:17:52 -msg ack ,msgId:badb88c1-7d50-493e-8ec5-161b693f7f87,checkResult:200
+2025-03-17 17:17:52 -send message == {"appId":10000,"clientType":1,"command":1046,"data":{"msg":"success","code":200,"data":{"messageId":"badb88c1-7d50-493e-8ec5-161b693f7f87","messageSequence":21},"ok":true},"imei":"500","toId":"123"}
+2025-03-17 17:17:52 -send message == {"appId":10000,"clientType":1,"command":1107,"data":{"toId":"123","messageKey":410836841529345,"serverSend":true,"messageSequence":21,"fromId":"423"},"imei":"500","toId":"123"}
+2025-03-17 17:17:52 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:17:53 -Restarting Consumer@300ed6f5: tags=[[amq.ctag-YscUM-iLiTBRF24Roh8TrA]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@6fe595dc Shared Rabbit Connection: SimpleConnection@52c9d3d0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2991], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:17:53 -Restarting Consumer@3845a223: tags=[[amq.ctag-lcX5b39V89oHlDUOf8N8ng]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@48d293ee Shared Rabbit Connection: SimpleConnection@2af69643 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2596], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:18:03 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"100232","appId":10000,"messageId":"7d3599ff-0caa-4c3d-bffa-56269b711d53","imei":"500","fromId":"123","command":1103}
+2025-03-17 17:18:03 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:18:03 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742203083492,"delFlag":0,"messageBody":"100232","messageKey":410836864598017,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"100232","messageId":"7d3599ff-0caa-4c3d-bffa-56269b711d53","messageKey":410836864598017,"messageSequence":22,"toId":"423"}}
+2025-03-17 17:18:03 -msg ack ,msgId:7d3599ff-0caa-4c3d-bffa-56269b711d53,checkResult:200
+2025-03-17 17:18:03 -send message == {"appId":10000,"clientType":1,"command":1046,"data":{"msg":"success","code":200,"data":{"messageId":"7d3599ff-0caa-4c3d-bffa-56269b711d53","messageSequence":22},"ok":true},"imei":"500","toId":"123"}
+2025-03-17 17:18:03 -send message == {"appId":10000,"clientType":1,"command":1107,"data":{"toId":"123","messageKey":410836864598017,"serverSend":true,"messageSequence":22,"fromId":"423"},"imei":"500","toId":"123"}
+2025-03-17 17:18:03 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:18:04 -Restarting Consumer@715f9fed: tags=[[amq.ctag-h-by2vlaVT_d5S0ol6fsCQ]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,3), conn: Proxy@6fe595dc Shared Rabbit Connection: SimpleConnection@52c9d3d0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2991], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:18:04 -Restarting Consumer@5a1fb6cc: tags=[[amq.ctag-hKrnKGeHE23TxOO2iU6AvA]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@48d293ee Shared Rabbit Connection: SimpleConnection@2af69643 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2596], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:18:28 -CHAT MSG FORM QUEUE ::: {"toId":"423","clientType":1,"messageBody":"100232","appId":10000,"messageId":"bcc5e384-59e8-44bb-8534-4f40cd53fc17","imei":"500","fromId":"123","command":1103}
+2025-03-17 17:18:28 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:18:28 -CHAT MSG FORM QUEUE ::: {"messageBody":{"appId":10000,"createTime":1742203108417,"delFlag":0,"messageBody":"100232","messageKey":410836917026817,"securityKey":""},"messageContent":{"appId":10000,"clientType":1,"fromId":"123","imei":"500","messageBody":"100232","messageId":"bcc5e384-59e8-44bb-8534-4f40cd53fc17","messageKey":410836917026817,"messageSequence":23,"toId":"423"}}
+2025-03-17 17:18:28 -Channel shutdown: channel error; protocol method: #method<channel.close>(reply-code=406, reply-text=PRECONDITION_FAILED - unknown delivery tag 1, class-id=60, method-id=80)
+2025-03-17 17:18:29 -Restarting Consumer@18051264: tags=[[amq.ctag-BVeyZqoKUb1fQ37BsBcNXA]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,2), conn: Proxy@48d293ee Shared Rabbit Connection: SimpleConnection@2af69643 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2596], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:18:30 -Restarting Consumer@740bcac0: tags=[[amq.ctag-dcfywoHYMJ0Hj_KxWbiADw]], channel=Cached Rabbit Channel: PublisherCallbackChannelImpl: AMQChannel(amqp://guest@192.168.111.130:5672/,4), conn: Proxy@6fe595dc Shared Rabbit Connection: SimpleConnection@52c9d3d0 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 2991], acknowledgeMode=AUTO local queue size=0
+2025-03-17 17:19:31 -msg ack ,msgId:bcc5e384-59e8-44bb-8534-4f40cd53fc17,checkResult:200
+2025-03-17 17:19:31 -send message == {"appId":10000,"clientType":1,"command":1046,"data":{"msg":"success","code":200,"data":{"messageId":"bcc5e384-59e8-44bb-8534-4f40cd53fc17","messageSequence":23},"ok":true},"imei":"500","toId":"123"}
+2025-03-17 17:19:31 -send message == {"appId":10000,"clientType":1,"command":1107,"data":{"toId":"123","messageKey":410836917026817,"serverSend":true,"messageSequence":23,"fromId":"423"},"imei":"500","toId":"123"}
+2025-03-17 17:24:25 -Waiting for workers to finish.
+2025-03-17 17:24:26 -Successfully waited for workers to finish.
+2025-03-17 17:24:26 -Waiting for workers to finish.
+2025-03-17 17:24:27 -Successfully waited for workers to finish.
+2025-03-17 17:24:27 -Shutdown ignored - container is not active already
+2025-03-17 17:24:27 -Shutdown ignored - container is not active already
+2025-03-17 17:24:27 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 17:24:37 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 28792 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 17:24:37 -The following profiles are active: dev
+2025-03-17 17:24:37 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 17:24:37 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 17:24:37 -Finished Spring Data repository scanning in 15ms. Found 0 Redis repository interfaces.
+2025-03-17 17:24:38 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 17:24:38 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 17:24:38 -Starting service [Tomcat]
+2025-03-17 17:24:38 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 17:24:38 -Initializing Spring embedded WebApplicationContext
+2025-03-17 17:24:38 -Root WebApplicationContext: initialization completed in 1072 ms
+2025-03-17 17:24:40 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 17:24:40 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 17:24:40 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 17:24:40 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 17:24:40 -Created new connection: rabbitConnectionFactory#5a3a1bf9:0/SimpleConnection@fd413fb [delegate=amqp://guest@192.168.111.130:5672/, localPort= 4018]
+2025-03-17 17:24:40 -Started ServiceApplication in 3.569 seconds (JVM running for 5.369)
+2025-03-17 18:29:12 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-17 18:29:12 -Initializing Servlet 'dispatcherServlet'
+2025-03-17 18:29:12 -Completed initialization in 124 ms
+2025-03-17 18:29:57 -HikariPool-1 - Starting...
+2025-03-17 18:29:58 -HikariPool-1 - Start completed.
+2025-03-17 18:29:59 -send message == {"appId":10000,"clientType":1,"command":3000,"data":{"toId":"423","sequence":1,"addWording":"1111","remark":"111"},"imei":"500","toId":"123"}
+2025-03-17 19:02:36 -Waiting for workers to finish.
+2025-03-17 19:02:37 -Successfully waited for workers to finish.
+2025-03-17 19:02:37 -Waiting for workers to finish.
+2025-03-17 19:02:38 -Successfully waited for workers to finish.
+2025-03-17 19:02:38 -Shutdown ignored - container is not active already
+2025-03-17 19:02:38 -Shutdown ignored - container is not active already
+2025-03-17 19:02:38 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 19:02:39 -Waiting for workers to finish.
+2025-03-17 19:02:39 -Successfully waited for workers to finish.
+2025-03-17 19:02:39 -Waiting for workers to finish.
+2025-03-17 19:02:40 -Successfully waited for workers to finish.
+2025-03-17 19:02:44 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 29736 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 19:02:44 -The following profiles are active: dev
+2025-03-17 19:02:45 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 19:02:45 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 19:02:45 -Finished Spring Data repository scanning in 16ms. Found 0 Redis repository interfaces.
+2025-03-17 19:02:45 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 19:02:45 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 19:02:45 -Starting service [Tomcat]
+2025-03-17 19:02:45 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 19:02:45 -Initializing Spring embedded WebApplicationContext
+2025-03-17 19:02:45 -Root WebApplicationContext: initialization completed in 1351 ms
+2025-03-17 19:02:47 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 19:02:48 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 19:02:48 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 19:02:48 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 19:02:48 -Created new connection: rabbitConnectionFactory#15405bd6:0/SimpleConnection@3a7b2e2 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 6068]
+2025-03-17 19:02:48 -Started ServiceApplication in 4.364 seconds (JVM running for 5.19)
+2025-03-17 19:02:49 -Waiting for workers to finish.
+2025-03-17 19:02:50 -Successfully waited for workers to finish.
+2025-03-17 19:02:50 -Waiting for workers to finish.
+2025-03-17 19:02:50 -Successfully waited for workers to finish.
+2025-03-17 19:02:50 -Shutdown ignored - container is not active already
+2025-03-17 19:02:50 -Shutdown ignored - container is not active already
+2025-03-17 19:02:50 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 19:03:17 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 56096 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 19:03:17 -The following profiles are active: dev
+2025-03-17 19:03:18 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 19:03:18 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 19:03:18 -Finished Spring Data repository scanning in 16ms. Found 0 Redis repository interfaces.
+2025-03-17 19:03:18 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 19:03:18 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 19:03:18 -Starting service [Tomcat]
+2025-03-17 19:03:18 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 19:03:18 -Initializing Spring embedded WebApplicationContext
+2025-03-17 19:03:18 -Root WebApplicationContext: initialization completed in 955 ms
+2025-03-17 19:03:20 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 19:03:20 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 19:03:20 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 19:03:20 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 19:03:20 -Created new connection: rabbitConnectionFactory#445bb139:0/SimpleConnection@2251b3bc [delegate=amqp://guest@192.168.111.130:5672/, localPort= 6413]
+2025-03-17 19:03:20 -Started ServiceApplication in 3.262 seconds (JVM running for 3.903)
+2025-03-17 19:03:29 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 19:04:17 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 19:23:25 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 19:24:17 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 19:33:36 -Waiting for workers to finish.
+2025-03-17 19:33:36 -Successfully waited for workers to finish.
+2025-03-17 19:33:36 -Waiting for workers to finish.
+2025-03-17 19:33:42 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 24004 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 19:33:42 -The following profiles are active: dev
+2025-03-17 19:33:43 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 19:33:43 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 19:33:43 -Finished Spring Data repository scanning in 16ms. Found 0 Redis repository interfaces.
+2025-03-17 19:33:43 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 19:33:43 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 19:33:43 -Starting service [Tomcat]
+2025-03-17 19:33:43 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 19:33:44 -Initializing Spring embedded WebApplicationContext
+2025-03-17 19:33:44 -Root WebApplicationContext: initialization completed in 1247 ms
+2025-03-17 19:33:45 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 19:33:45 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 19:33:50 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 19:33:50 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 19:33:50 -Created new connection: rabbitConnectionFactory#6ada9c0c:0/SimpleConnection@1980a3f [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11395]
+2025-03-17 19:33:50 -Started ServiceApplication in 7.82 seconds (JVM running for 8.462)
+2025-03-17 19:34:03 -Starting ServerApplication on LAPTOP-H0PN2NG1 with PID 53996 (F:\JavaProject\im-system\im-message-store\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 19:34:03 -The following profiles are active: dev
+2025-03-17 19:34:04 -Tomcat initialized with port(s): 8001 (http)
+2025-03-17 19:34:04 -Initializing ProtocolHandler ["http-nio-8001"]
+2025-03-17 19:34:04 -Starting service [Tomcat]
+2025-03-17 19:34:04 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 19:34:04 -Initializing Spring embedded WebApplicationContext
+2025-03-17 19:34:04 -Root WebApplicationContext: initialization completed in 775 ms
+2025-03-17 19:34:05 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 19:34:05 -Starting ProtocolHandler ["http-nio-8001"]
+2025-03-17 19:34:05 -Tomcat started on port(s): 8001 (http) with context path ''
+2025-03-17 19:34:05 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 19:34:05 -Created new connection: rabbitConnectionFactory#7942a854:0/SimpleConnection@71904469 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11453]
+2025-03-17 19:34:05 -Started ServerApplication in 2.448 seconds (JVM running for 3.105)
+2025-03-17 19:34:29 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 19:34:43 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"423","command":4001,"status":1}
+2025-03-17 19:35:37 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 19:35:46 -Waiting for workers to finish.
+2025-03-17 19:35:46 -Successfully waited for workers to finish.
+2025-03-17 19:35:46 -Waiting for workers to finish.
+2025-03-17 19:35:47 -Successfully waited for workers to finish.
+2025-03-17 19:35:47 -Waiting for workers to finish.
+2025-03-17 19:35:47 -Successfully waited for workers to finish.
+2025-03-17 19:35:47 -Shutdown ignored - container is not active already
+2025-03-17 19:35:47 -Shutdown ignored - container is not active already
+2025-03-17 19:35:47 -Shutdown ignored - container is not active already
+2025-03-17 19:35:47 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 19:35:53 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 54356 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 19:35:53 -The following profiles are active: dev
+2025-03-17 19:35:53 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 19:35:53 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 19:35:53 -Finished Spring Data repository scanning in 15ms. Found 0 Redis repository interfaces.
+2025-03-17 19:35:54 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 19:35:54 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 19:35:54 -Starting service [Tomcat]
+2025-03-17 19:35:54 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 19:35:54 -Initializing Spring embedded WebApplicationContext
+2025-03-17 19:35:54 -Root WebApplicationContext: initialization completed in 924 ms
+2025-03-17 19:35:55 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 19:35:56 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 19:35:56 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 19:35:56 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 19:35:56 -Created new connection: rabbitConnectionFactory#70e94ecb:0/SimpleConnection@3bfae028 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 11720]
+2025-03-17 19:35:56 -Started ServiceApplication in 3.06 seconds (JVM running for 3.651)
+2025-03-17 19:36:05 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"423","command":4001,"status":1}
+2025-03-17 19:41:25 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"423","command":4001,"status":1}
+2025-03-17 19:41:29 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 19:42:51 -Waiting for workers to finish.
+2025-03-17 19:42:51 -Successfully waited for workers to finish.
+2025-03-17 19:42:51 -Waiting for workers to finish.
+2025-03-17 19:42:52 -Successfully waited for workers to finish.
+2025-03-17 19:42:52 -Waiting for workers to finish.
+2025-03-17 19:42:52 -Successfully waited for workers to finish.
+2025-03-17 19:42:58 -Starting ServiceApplication on LAPTOP-H0PN2NG1 with PID 27496 (F:\JavaProject\im-system\im-service\target\classes started by 张旭阳 in F:\JavaProject\im-system)
+2025-03-17 19:42:58 -The following profiles are active: dev
+2025-03-17 19:42:59 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2025-03-17 19:42:59 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2025-03-17 19:42:59 -Finished Spring Data repository scanning in 14ms. Found 0 Redis repository interfaces.
+2025-03-17 19:42:59 -Tomcat initialized with port(s): 8000 (http)
+2025-03-17 19:42:59 -Initializing ProtocolHandler ["http-nio-8000"]
+2025-03-17 19:42:59 -Starting service [Tomcat]
+2025-03-17 19:42:59 -Starting Servlet engine: [Apache Tomcat/9.0.37]
+2025-03-17 19:42:59 -Initializing Spring embedded WebApplicationContext
+2025-03-17 19:42:59 -Root WebApplicationContext: initialization completed in 1028 ms
+2025-03-17 19:43:01 -Initializing ExecutorService 'applicationTaskExecutor'
+2025-03-17 19:43:01 -Starting ProtocolHandler ["http-nio-8000"]
+2025-03-17 19:43:01 -Tomcat started on port(s): 8000 (http) with context path ''
+2025-03-17 19:43:01 -Attempting to connect to: [192.168.111.130:5672]
+2025-03-17 19:43:01 -Created new connection: rabbitConnectionFactory#2fcd7d3f:0/SimpleConnection@766a52f5 [delegate=amqp://guest@192.168.111.130:5672/, localPort= 13565]
+2025-03-17 19:43:01 -Started ServiceApplication in 3.464 seconds (JVM running for 4.189)
+2025-03-17 19:43:06 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"423","command":4001,"status":1}
+2025-03-17 19:44:11 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"423","command":4001,"status":1}
+2025-03-17 19:44:46 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"423","command":4001,"status":1}
+2025-03-17 19:47:34 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 19:47:36 -HikariPool-1 - Starting...
+2025-03-17 19:47:37 -HikariPool-1 - Start completed.
+2025-03-17 19:47:37 -send message == {"appId":10000,"clientType":1,"command":4004,"data":{"appId":10000,"client":[{"brokerId":1000,"clientType":1,"appId":10000,"brokerHost":"192.168.3.192","imei":"500","connectState":1,"userId":"123"}],"userId":"123","status":1},"imei":"500","toId":"423"}
+2025-03-17 19:47:37 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"423","command":4001,"status":1}
+2025-03-17 19:47:37 -send message == {"appId":10000,"clientType":1,"command":4004,"data":{"appId":10000,"client":[{"brokerId":1000,"clientType":1,"appId":10000,"brokerHost":"192.168.3.192","imei":"500","connectState":1,"userId":"423"}],"userId":"423","status":1},"imei":"500","toId":"123"}
+2025-03-17 19:48:28 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":0,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 19:48:41 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":0,"imei":"500","userId":"423","command":4001,"status":1}
+2025-03-17 19:49:11 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 19:49:14 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"423","command":4001,"status":1}
+2025-03-17 19:49:14 -send message == {"appId":10000,"clientType":1,"command":4004,"data":{"appId":10000,"client":[{"brokerId":1000,"clientType":1,"appId":10000,"brokerHost":"192.168.3.192","imei":"500","connectState":1,"userId":"423"}],"userId":"423","status":1},"imei":"500","toId":"123"}
+2025-03-17 20:16:18 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 20:16:18 -send message == {"appId":10000,"clientType":1,"command":4004,"data":{"appId":10000,"client":[{"brokerId":1000,"clientType":1,"appId":10000,"brokerHost":"192.168.3.192","imei":"500","connectState":1,"userId":"123"}],"userId":"123","status":1},"imei":"500","toId":"423"}
+2025-03-17 20:17:59 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 20:17:59 -send message == {"appId":10000,"clientType":1,"command":4004,"data":{"appId":10000,"client":[{"brokerId":1000,"clientType":1,"appId":10000,"brokerHost":"192.168.3.192","imei":"500","connectState":1,"userId":"123"}],"userId":"123","status":1},"imei":"500","toId":"423"}
+2025-03-17 20:18:20 -CHAT MSG FORM QUEUE ::: {"clientType":1,"appId":10000,"imei":"500","userId":"123","command":4001,"status":1}
+2025-03-17 20:18:20 -send message == {"appId":10000,"clientType":1,"command":4004,"data":{"appId":10000,"client":[{"brokerId":1000,"clientType":1,"appId":10000,"brokerHost":"192.168.3.192","imei":"500","connectState":1,"userId":"123"}],"userId":"123","status":1},"imei":"500","toId":"423"}
+2025-03-17 20:24:38 -Waiting for workers to finish.
+2025-03-17 20:24:38 -Waiting for workers to finish.
+2025-03-17 20:24:39 -Successfully waited for workers to finish.
+2025-03-17 20:24:39 -Waiting for workers to finish.
+2025-03-17 20:24:39 -Successfully waited for workers to finish.
+2025-03-17 20:24:39 -Waiting for workers to finish.
+2025-03-17 20:24:39 -Successfully waited for workers to finish.
+2025-03-17 20:24:39 -Waiting for workers to finish.
+2025-03-17 20:24:39 -Successfully waited for workers to finish.
+2025-03-17 20:24:40 -Shutdown ignored - container is not active already
+2025-03-17 20:24:40 -Shutdown ignored - container is not active already
+2025-03-17 20:24:40 -Shutdown ignored - container is not active already
+2025-03-17 20:24:40 -Shutting down ExecutorService 'applicationTaskExecutor'
+2025-03-17 20:24:40 -Successfully waited for workers to finish.
+2025-03-17 20:24:40 -Shutdown ignored - container is not active already
+2025-03-17 20:24:40 -Shutdown ignored - container is not active already
