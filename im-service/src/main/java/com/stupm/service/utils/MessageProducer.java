@@ -54,7 +54,7 @@ public class MessageProducer {
 
         return result;
     }
-//  发送消息同步
+//  发送所有端
     public List<ClientInfo> sendToUser(Integer appId,String toId , Command command ,Object data ){
         List<UserSession> userSession = userSessionUtils.getUserSession(appId, toId);
         List<ClientInfo> list = new ArrayList<>();

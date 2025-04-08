@@ -54,7 +54,6 @@ public class MessageSyncService {
     }
 
     private void syncToSender(MessageReadPack pack, ClientInfo clientInfo, Command command) {
-
         messageProducer.sendToUserAnotherClient(pack.getToId(),command,pack,clientInfo);
     }
 

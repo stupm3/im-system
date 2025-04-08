@@ -1,6 +1,3 @@
-
-
-
 spring:
   profiles:
     active: dev
@@ -29,10 +26,12 @@ spring:
     #    virtual-host:
     listener:
       simple:
+        acknowledge-mode: MANUAL
         concurrency: 5
         max-concurrency: 10
         prefetch: 1
     publisher-returns: true
+    publisher-confirms: true
     template:
       mandatory: true
     cache:

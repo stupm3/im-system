@@ -52,7 +52,6 @@ public class ChatOperateReceiver {
             if(command.equals(MessageCommand.MSG_P2P.getCommand())){
                 MessageContent messageContent = jsonObject.toJavaObject(MessageContent.class);
                 p2pMessageService.process(messageContent);
-                channel.basicAck(deliveryTag,false);
             }else if(command.equals(MessageCommand.MSG_RECIVE_ACK.getCommand())){
                 MessageReceiveAckPack javaObject = jsonObject.toJavaObject(MessageReceiveAckPack.class);
                 messageSyncService.receiveMark(javaObject);
@@ -60,6 +59,7 @@ public class ChatOperateReceiver {
                 MessageReadContent messageContent = jsonObject.toJavaObject(MessageReadContent.class);
                 messageSyncService.readMark(messageContent);
             }
+            channel.basicAck(deliveryTag,false);
         }catch (Exception e){
             logger.error("处理消息异常:{}",e.getMessage());
 

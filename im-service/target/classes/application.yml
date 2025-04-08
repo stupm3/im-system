@@ -28,8 +28,9 @@ spring:
         concurrency: 5
         max-concurrency: 10
         prefetch: 1
-        acknowledge-mode: auto
+        acknowledge-mode: MANUAL
     publisher-returns: true
+    publisher-confirms: true
     template:
       mandatory: true
     cache:
@@ -38,8 +39,6 @@ spring:
       channel:
         size: 36
         checkout-timeout: 0
-    application:
-      name: im-core
 
 #logger配置
 logging:

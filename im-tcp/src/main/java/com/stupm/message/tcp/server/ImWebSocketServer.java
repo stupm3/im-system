@@ -3,6 +3,7 @@ package com.stupm.message.tcp.server;
 import com.stupm.message.codec.WebSocketMessageDecoder;
 import com.stupm.message.codec.WebSocketMessageEncoder;
 import com.stupm.message.codec.config.BootstrapConfig;
+import com.stupm.message.tcp.handler.LogoutHandler;
 import com.stupm.message.tcp.handler.NettyServerHandler;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelInitializer;
@@ -53,6 +54,7 @@ public class ImWebSocketServer {
                         pipeline.addLast(new WebSocketServerProtocolHandler("/ws"));
                         pipeline.addLast(new WebSocketMessageDecoder());
                         pipeline.addLast(new WebSocketMessageEncoder());
+                        pipeline.addLast(new LogoutHandler());
                         pipeline.addLast(new NettyServerHandler(config.getBrokerId(),config.getLogicUrl()));
                     }
                 });

@@ -4,6 +4,7 @@ import com.stupm.message.codec.MessageDecoder;
 import com.stupm.message.codec.MessageEncoder;
 import com.stupm.message.codec.config.BootstrapConfig;
 import com.stupm.message.tcp.handler.HeartBeatHandler;
+import com.stupm.message.tcp.handler.LogoutHandler;
 import com.stupm.message.tcp.handler.NettyServerHandler;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelInitializer;
@@ -50,6 +51,7 @@ public class ImServer {
                         channel.pipeline().addLast(new MessageEncoder());
                         channel.pipeline().addLast(new IdleStateHandler(0 , 0 ,10));
                         channel.pipeline().addLast(new HeartBeatHandler(config.getHeartBeatTime()));
+                        channel.pipeline().addLast(new LogoutHandler());
                         channel.pipeline().addLast(new NettyServerHandler(config.getBrokerId(),config.getLogicUrl()));
                     }
                 });

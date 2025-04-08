@@ -35,13 +35,18 @@ public class MessageReceiver {
                         public void handleDelivery(String consumerTag, Envelope envelope, AMQP.BasicProperties properties, byte[] body) throws IOException {
                             try {
                                 String msgStr = new String(body);
-                                MessagePack messagePack = JSONObject.parseObject(msgStr, MessagePack.class);
-                                BaseProcess messageProcess = ProcessFactory.getMessageProcess(messagePack.getCommand());
+                                log.info(msgStr);
+                                MessagePack messagePack =
+                                        JSONObject.parseObject(msgStr, MessagePack.class);
+                                BaseProcess messageProcess = ProcessFactory
+                                        .getMessageProcess(messagePack.getCommand());
                                 messageProcess.process(messagePack);
-                                channel.basicAck(envelope.getDeliveryTag(), false);
-                            } catch (IOException e) {
-                                log.error(e.getMessage(), e);
-                                channel.basicNack(envelope.getDeliveryTag(), false, false);
+
+                                channel.basicAck(envelope.getDeliveryTag(),false);
+
+                            }catch (Exception e){
+                                e.printStackTrace();
+                                channel.basicNack(envelope.getDeliveryTag(),false,false);
                             }
                         }
                     });

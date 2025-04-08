@@ -56,15 +56,14 @@ public class GroupChatOperateReceiver {
             if(command.equals(GroupEventCommand.MSG_GROUP.getCommand())){
                 GroupChatMessageContent groupChatMessageContent = JSONObject.toJavaObject(jsonObject, GroupChatMessageContent.class);
                 service.process(groupChatMessageContent);
-                channel.basicAck(deliveryTag, false);
             }else if(command.equals(GroupEventCommand.MSG_GROUP_READED.getCommand())){
                 MessageReadContent messageReaded = JSON.parseObject(msg, new TypeReference<MessageReadContent>() {
                 }.getType());
                 messageSyncService.groupReadMark(messageReaded);
             }
+            channel.basicAck(deliveryTag, false);
         }catch (Exception e){
             logger.error("处理消息异常:{}",e.getMessage());
-
             // 第一个false 不批量拒绝  第二个false 消息不重回队列
             channel.basicNack(deliveryTag,false,false);
         }

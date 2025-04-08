@@ -16,13 +16,7 @@ import java.util.zip.Deflater;
 import java.util.zip.Inflater;
 
 
-/**
- * @description: app用户 后台管理员
- *
- * 10000 xxx 10001 bbbb
- * @author: lld
- * @version: 1.0
- */
+
 public class SigAPI {
     final private long appId;
     final private String key;
@@ -42,12 +36,7 @@ public class SigAPI {
         System.out.println("decoder:" + jsonObject.toString());
     }
 
-    /**
-     * @description: 解密方法
-     * @param
-     * @return com.alibaba.fastjson.JSONObject
-     * @author lld
-     */
+
     public static JSONObject decodeUserSig(String userSig) {
         JSONObject sigDoc = new JSONObject(true);
         try {

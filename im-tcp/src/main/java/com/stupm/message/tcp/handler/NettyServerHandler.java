@@ -45,7 +45,6 @@ public class NettyServerHandler extends SimpleChannelInboundHandler<Message> {
 
     private FeignMessageService feignMessageService;
 
-    private String logicUrl;
 
     public NettyServerHandler(Integer brokerId , String logicUrl) {
         this.brokerId = brokerId;
@@ -54,6 +53,7 @@ public class NettyServerHandler extends SimpleChannelInboundHandler<Message> {
                 .decoder(new JacksonDecoder())
                 .target(FeignMessageService.class, logicUrl);
     }
+
 
 
 
@@ -145,6 +145,7 @@ public class NettyServerHandler extends SimpleChannelInboundHandler<Message> {
                         ackCommand = GroupEventCommand.GROUP_MSG_ACK.getCommand();
                     }
                     ChatMessageAck chatMessageAck = new ChatMessageAck(jsonObject.getString("messageId"));
+                    responseVO.setData(chatMessageAck);
                     MessagePack<ResponseVO> messagePack = new MessagePack();
                     messagePack.setData(responseVO);
                     messagePack.setCommand(ackCommand);
